@@ -52,7 +52,21 @@ c_potr_longer <- c_potr %>%
   mutate(core = "basal")
 #View(c_potr_longer)
 
-
+process_tree_data <- function(df, species_name = "POTR", core_type = "basal") {
+  df %>% 
+    dplyr::select(-Year) %>%
+    dplyr::rename("80F35T33C" = "80F35T33C_REDO") %>%
+    pivot_longer(everything(), names_to = "tree_id", values_to = "value") %>%
+    dplyr::filter(!is.na(value)) %>%
+    group_by(tree_id) %>% 
+    summarise(num_rings = n(), .groups = "drop") %>%
+    mutate(
+      decade = str_sub(as.character(tree_id), 1, 2),
+      site = str_extract(tree_id, "^[^T]+"),
+      species = species_name,
+      core = core_type
+    )
+}
 
 
 
