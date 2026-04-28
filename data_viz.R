@@ -64,7 +64,14 @@ a_potr_longer <- a_potr %>%
   mutate(species = "POTR", core = "breast")
 #View(a_potr_longer)
 
+c_pigl_longer <- c_pigl %>%
+  process_tree_data() %>%
+  mutate(species = "PIGL", core = "basal")
+#View(c_pigl_longer)
 
-
+a_pigl_longer <- a_pigl %>% 
+  process_tree_data() %>%
+  mutate(species = "PIGL", core = "breast")
+#View(a_potr_longer)
 
 
