@@ -36,6 +36,21 @@ a_pigl <- read_tsv(here::here("data/raw/interspecific_workshop_A_PIGL_tab.txt"))
 c_pigl <- read_tsv(here::here("data/raw/interspecific_workshop_C_PIGL_tab.txt"))  # read_tsv is for tab-separated
 #View(c_pigl)
 
+# CLEAN DATA ----
+
+# C_POTR
+c_potr_longer <- c_potr %>% 
+  dplyr::select(-Year) %>%
+  dplyr::rename(  "80F35T33C" = "80F35T33C_REDO") %>%
+  #dplyr::select(ends_with("C")) %>%
+  pivot_longer(everything(), names_to = "tree_id", values_to = "value") %>%
+  dplyr::filter(!is.na(value)) %>%
+  group_by(tree_id) %>% summarise(num_rings = n()) %>%
+  mutate(decade = str_sub(as.character(tree_id), 1, 2)) %>% 
+  mutate(site = str_extract(tree_id, "^[^T]+")) %>%
+  mutate(species = "POTR") %>%
+  mutate(core = "basal")
+#View(c_potr_longer)
 
 
 
