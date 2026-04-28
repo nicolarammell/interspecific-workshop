@@ -74,8 +74,53 @@ a_pigl_longer <- a_pigl %>%
   mutate(species = "PIGL", core = "breast")
 #View(a_potr_longer)
 
-#bind the 4 tables together----
-
+# bind the 4 tables together 
 ring_counts <- bind_rows(c_potr_longer, a_potr_longer, c_pigl_longer, a_pigl_longer)
-#view(ring_counts)
+view(ring_counts)
+
+# make basic plot
+ring_counts %>%
+  ggplot(aes(x = site, y = num_rings, shape = core, colour = species)) +
+  geom_point(size = 3) +
+  scale_shape_manual(values = c(basal = 17, breast = 16)) +
+  coord_flip()
+
+# make ggridges plot - breast height samples 
+ring_counts %>%
+  dplyr::filter(core == "breast") %>%
+  ggplot(aes(x = num_rings, y = site, fill = species)) +
+  geom_density_ridges(alpha = 0.5, scale = 1, color = "black", rel_min_height = 0.01) +
+  # raw points underneath
+  geom_point(aes(color = species), 
+             position = position_jitter(height = 0.05, width = 0), 
+             size = 2, alpha = 0.8) +
+  scale_fill_manual(values = c(PIGL = "darkgreen", POTR = "orange")) +
+  scale_color_manual(values = c(PIGL = "darkgreen", POTR = "orange")) +
+  scale_x_continuous(breaks = seq(0, max(ring_counts$num_rings, na.rm = TRUE), by = 10)) +
+  theme_classic(base_size = 20) +
+  xlab("Number of tree rings") +
+  ylab("Site") +
+  ggtitle("Breast height samples")
+
+# Save as PNG in working directory
+ggsave("code/figures/breast_plot.png", width = 15, height = 12, dpi = 300)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
