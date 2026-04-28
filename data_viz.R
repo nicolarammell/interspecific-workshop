@@ -38,37 +38,31 @@ c_pigl <- read_tsv(here::here("data/raw/interspecific_workshop_C_PIGL_tab.txt"))
 
 # CLEAN DATA ----
 
-# C_POTR
-c_potr_longer <- c_potr %>% 
-  dplyr::select(-Year) %>%
-  dplyr::rename(  "80F35T33C" = "80F35T33C_REDO") %>%
-  #dplyr::select(ends_with("C")) %>%
-  pivot_longer(everything(), names_to = "tree_id", values_to = "value") %>%
-  dplyr::filter(!is.na(value)) %>%
-  group_by(tree_id) %>% summarise(num_rings = n()) %>%
-  mutate(decade = str_sub(as.character(tree_id), 1, 2)) %>% 
-  mutate(site = str_extract(tree_id, "^[^T]+")) %>%
-  mutate(species = "POTR") %>%
-  mutate(core = "basal")
-#View(c_potr_longer)
-
-process_tree_data <- function(df, species_name = "POTR", core_type = "basal") {
+# process_tree_data function to pivot longer
+process_tree_data <- function(df) {
   df %>% 
     dplyr::select(-Year) %>%
-    dplyr::rename("80F35T33C" = "80F35T33C_REDO") %>%
     pivot_longer(everything(), names_to = "tree_id", values_to = "value") %>%
     dplyr::filter(!is.na(value)) %>%
     group_by(tree_id) %>% 
     summarise(num_rings = n(), .groups = "drop") %>%
     mutate(
       decade = str_sub(as.character(tree_id), 1, 2),
-      site = str_extract(tree_id, "^[^T]+"),
-      species = species_name,
-      core = core_type
+      site = str_extract(tree_id, "^[^T]+")
     )
 }
 
+# pivot 4 dataframes longer
+c_potr_longer <- c_potr %>%
+  dplyr::rename("80F35T33C" = "80F35T33C_REDO") %>%
+  process_tree_data() %>%
+  mutate(species = "POTR", core = "basal")
+#View(c_potr_longer)
 
+a_potr_longer <- a_potr %>%
+  process_tree_data() %>%
+  mutate(species = "POTR", core = "breast")
+#View(a_potr_longer)
 
 
 
