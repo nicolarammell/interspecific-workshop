@@ -106,10 +106,46 @@ ring_counts %>%
 ggsave("code/figures/breast_plot.png", width = 15, height = 12, dpi = 300)
 
 
+# make ggridges plot - basal height samples 
+ring_counts %>%
+  dplyr::filter(core == "basal") %>%
+  ggplot(aes(x = num_rings, y = site, fill = species)) +
+  geom_density_ridges(alpha = 0.5, scale = 1, color = "black", rel_min_height = 0.01) +
+  # raw points underneath
+  geom_point(aes(color = species), 
+             position = position_jitter(height = 0.05, width = 0), 
+             size = 2, alpha = 0.8) +
+  scale_fill_manual(values = c(PIGL = "darkgreen", POTR = "orange")) +
+  scale_color_manual(values = c(PIGL = "darkgreen", POTR = "orange")) +
+  scale_x_continuous(breaks = seq(0, max(ring_counts$num_rings, na.rm = TRUE), by = 10)) +
+  theme_classic(base_size = 20) +
+  xlab("Number of tree rings") +
+  ylab("Site") +
+  ggtitle("Basal height samples")
+
+# Save as PNG in working directory
+ggsave("code/figures/basal_plot.png", width = 15, height = 12, dpi = 300)
 
 
+# make ggridges plot - basal PIGL breast POTR height samples 
+ring_counts %>%
+  dplyr::filter(case_when (species == "POTR" ~ core == "breast",species == "PIGL" ~ core == "basal")) %>%
+  ggplot(aes(x = num_rings, y = site, fill = species)) +
+  geom_density_ridges(alpha = 0.5, scale = 1, color = "black", rel_min_height = 0.01) +
+  # raw points underneath
+  geom_point(aes(color = species), 
+             position = position_jitter(height = 0.05, width = 0), 
+             size = 2, alpha = 0.8) +
+  scale_fill_manual(values = c(PIGL = "darkgreen", POTR = "orange")) +
+  scale_color_manual(values = c(PIGL = "darkgreen", POTR = "orange")) +
+  scale_x_continuous(breaks = seq(0, max(ring_counts$num_rings, na.rm = TRUE), by = 10)) +
+  theme_classic(base_size = 20) +
+  xlab("Number of tree rings") +
+  ylab("Site") +
+  ggtitle("basal PIGL breast POTR height samples")
 
-
+# Save as PNG in working directory
+ggsave("code/figures/basal_breast_plot.png", width = 15, height = 12, dpi = 300)
 
 
 
