@@ -74,4 +74,8 @@ a_pigl_longer <- a_pigl %>%
   mutate(species = "PIGL", core = "breast")
 #View(a_potr_longer)
 
+#bind the 4 tables together----
+
+ring_counts <- bind_rows(c_potr_longer, a_potr_longer, c_pigl_longer, a_pigl_longer)
+#view(ring_counts)
 
