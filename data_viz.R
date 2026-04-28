@@ -36,6 +36,15 @@ a_pigl <- read_tsv(here::here("data/raw/interspecific_workshop_A_PIGL_tab.txt"))
 c_pigl <- read_tsv(here::here("data/raw/interspecific_workshop_C_PIGL_tab.txt"))  # read_tsv is for tab-separated
 #View(c_pigl)
 
+# read in rwl data
+c_potr_rwl <- read.tucson(here::here("data/raw/interspecific_workshop_C_POTR.rwl"))
+#View(c_potr_rwl)
+c_pigl_rwl <- read.tucson(here::here("data/raw/interspecific_workshop_C_PIGL.rwl"))
+#View(c_pigl_rwl)
+a_potr_rwl <- read.tucson(here::here("data/raw/interspecific_workshop_A_POTR.rwl"))
+a_pigl_rwl <- read.tucson(here::here("data/raw/interspecific_workshop_A_PIGL.rwl"))
+
+
 # CLEAN DATA ----
 
 # process_tree_data function to pivot longer
@@ -77,6 +86,8 @@ a_pigl_longer <- a_pigl %>%
 # bind the 4 tables together 
 ring_counts <- bind_rows(c_potr_longer, a_potr_longer, c_pigl_longer, a_pigl_longer)
 view(ring_counts)
+
+# PLOT RING COUNTS ----
 
 # make basic plot
 ring_counts %>%
@@ -147,12 +158,46 @@ ring_counts %>%
 # Save as PNG in working directory
 ggsave("code/figures/basal_breast_plot.png", width = 15, height = 12, dpi = 300)
 
+# BUILD CHRONOLOGY ----
 
+# BASAL POTR
+# detrend all series at once - once you know which option is best for your data
+grow.rwi <- detrend(rwl = c_potr_rwl, method = c("Spline"), nyrs = NULL, f = 0.5, pos.slope = FALSE)
+spag.plot(rwl = grow.rwi, zfac = 1, useRaster = FALSE, res = 300)  # now see reverse pattern
+rwi_stats <- rwi.stats(c_potr_rwl) # stats for entire chronology
+rwi_stats # rbar.tot is average correlation across segments
+rwi_stats_run <- rwi.stats.running(c_potr_rwl) # running stats - time periods can be adjusted
 
+# build chronology with auto-regressive modelling (AR), this produces RESIDUAL crn
+# i.e., minimizes effect of one year on the next (aka stored reserves)
+grow.crn <- chron(x = c_potr_rwl, prefix = "", biweight = TRUE, prewhiten = TRUE) # NOT STANDARDIZED
+plot.crn(grow.crn, add.spline = TRUE) #plot crn
 
+# BASAL PIGL
+# detrend all series at once - once you know which option is best for your data
+grow.rwi <- detrend(rwl = c_pigl_rwl, method = c("Spline"), nyrs = NULL, f = 0.5, pos.slope = FALSE)
+spag.plot(rwl = grow.rwi, zfac = 1, useRaster = FALSE, res = 300)  # now see reverse pattern
+rwi_stats <- rwi.stats(c_pigl_rwl) # stats for entire chronology
+rwi_stats # rbar.tot is average correlation across segments
+rwi_stats_run <- rwi.stats.running(c_pigl_rwl) # running stats - time periods can be adjusted
 
+# build chronology with auto-regressive modelling (AR), this produces RESIDUAL crn
+# i.e., minimizes effect of one year on the next (aka stored reserves)
+grow.crn <- chron(x = c_pigl_rwl, prefix = "", biweight = TRUE, prewhiten = TRUE) # NOT STANDARDIZED
+plot.crn(grow.crn, add.spline = TRUE) #plot crn
 
+# BREAST POTR
+# detrend all series at once - once you know which option is best for your data
+grow.rwi <- detrend(rwl = a_potr_rwl, method = c("Spline"), nyrs = NULL, f = 0.5, pos.slope = FALSE)
+spag.plot(rwl = grow.rwi, zfac = 1, useRaster = FALSE, res = 300)  # now see reverse pattern
+rwi_stats <- rwi.stats(a_potr_rwl) # stats for entire chronology
+rwi_stats # rbar.tot is average correlation across segments
+rwi_stats_run <- rwi.stats.running(a_potr_rwl) # running stats - time periods can be adjusted
 
+# build chronology with auto-regressive modelling (AR), this produces RESIDUAL crn
+# i.e., minimizes effect of one year on the next (aka stored reserves)
+grow.crn <- chron(x = a_potr_rwl, prefix = "", biweight = TRUE, prewhiten = TRUE) # NOT STANDARDIZED
+plot.crn(grow.crn, add.spline = TRUE) #plot crn
 
 
 
