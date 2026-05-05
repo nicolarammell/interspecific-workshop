@@ -48,6 +48,46 @@ perimeters_yt <- st_read("data/raw/Fire_History.shp/Fire_History.shp") %>%
 perimeters_all <- bind_rows(perimeters_bn, perimeters_yt)
 #View(perimeters_all)
 
+ # VISUALIZATION ----
+
+#custom palette
+custom_colours <- c('#feebe2','#fcc5c0','#fa9fb5','#f768a1','#c51b8a','#7a0177')
+                    
+palette <- colorFactor(palette = custom_colours, domain = perimeters_all$DECADE)
+
+circle_colours <- c("lightgreen","lightgreen","darkgreen","orange")
+  
+palette_sites <- colorFactor(palette = circle_colours, domain = sites$spp_samples)
+
+#creating the map
+   sites %>%
+  dplyr::filter(str_detect(spp_sampled, ('pop_tr'))) %>%
+  leaflet() %>%
+  addTiles() %>%
+  addProviderTiles("Esri.WorldImagery") %>% 
+  addPolygons(data = perimeters_all,
+              fillColor = ~palette(DECADE), 
+              color = "black", 
+              fillOpacity = 0.9) %>%
+  addCircleMarkers(lng = ~x, lat = ~y, 
+                   color = ~palette_sites(spp_sampled), 
+                   label = ~site) %>% 
+  addLegend(data = perimeters_all, 
+            pal = palette, 
+            values = ~DECADE, 
+            title = "Burn Decade") %>%
+  addLegend(
+    colors = c("lightgreen","lightgreen","darkgreen","orange"), 
+    labels = c('aspen and spruce', "aspen and white spruce", "aspen and black spruce", "aspen"),
+    title = "Species Sampled", 
+    position = "bottomleft")
+   
+   
+                   
+                   
+  
+              
+              
 
 
 
