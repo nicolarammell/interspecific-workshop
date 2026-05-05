@@ -23,8 +23,11 @@ library(utils)     # dendro
 # set theme
 theme_set(theme_classic())
 
+# READ IN DATA ----
 
-
+# read in dendro spreadsheet data with site locations - output from `01_data_assembly` script (that joins originals)
+sites <- readr::read_csv(here::here("data/raw/dendro_site.csv")) 
+View(sites)
 
 
 
