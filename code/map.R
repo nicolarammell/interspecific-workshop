@@ -61,21 +61,21 @@ perimeters_all <- bind_rows(perimeters_bn, perimeters_yt)
 
  # VISUALIZATION ----
 
-#custom palette
-custom_colours <- c('#feebe2','#fcc5c0','#fa9fb5','#f768a1','#c51b8a','#7a0177')
+# custom palette
+custom_colours <- c('#ffffb2','#fed976','#feb24c','#fd8d3c','#f03b20','#bd0026')
                     
 palette <- colorFactor(palette = custom_colours, domain = perimeters_all$DECADE)
 
-circle_colours <- c("lightgreen","lightgreen","darkgreen","orange")
+circle_colours <- c('#41b6c4','#41b6c4','#2c7fb8','#253494')
   
 palette_sites <- colorFactor(palette = circle_colours, domain = sites$spp_samples)
 
-#creating the map
+# create the map
    sites_infection %>%
   dplyr::filter(str_detect(spp_sampled, ('pop_tr'))) %>%
   leaflet() %>%
   addTiles() %>%
-  addProviderTiles("Esri.WorldTopoMap") %>% # Esri.WorldTopoMap; # Esri.WorldImagery; #Esri.WorldStreetmap
+  addProviderTiles(providers$Esri.WorldStreetMap) %>% # Esri.WorldTopoMap; # Esri.WorldImagery; #Esri.WorldStreetmap #Esri.WorldTopoMap
   addPolygons(data = perimeters_all,
               fillColor = ~palette(DECADE), 
               color = "black", 
@@ -83,15 +83,16 @@ palette_sites <- colorFactor(palette = circle_colours, domain = sites$spp_sample
               weight = 1) %>%
   addCircleMarkers(lng = ~x, lat = ~y, 
                    color = ~palette_sites(spp_sampled), 
-                   label = ~site, 
-                   ~ifelse(site_infection == "Yes", 5, 1),) %>% 
+                   label = ~site,
+                   radius = ~3 + 3 * as.numeric(num_margin_trees)) %>%   #marker size is dependent on the # of margin trees in the site
+                   #~ifelse(site_infection == "Yes", 5, 1), 
   addLegend(data = perimeters_all, 
             pal = palette, 
             values = ~DECADE, 
-            title = "Burn Decade") %>%
+            title = "Burn Decade") %>% 
   addLegend(
-    colors = c("lightgreen","lightgreen","darkgreen","orange"), 
-    labels = c('aspen and spruce', "aspen and white spruce", "aspen and black spruce", "aspen"),
+    colors = c('#41b6c4','#41b6c4','#2c7fb8','#253494'), 
+    labels = c('Aspen + Mixed Spruce', "Aspen + White Spruce", "Aspen + Black Spruce", "Aspen"),
     title = "Species Sampled", 
     position = "bottomleft")
    
