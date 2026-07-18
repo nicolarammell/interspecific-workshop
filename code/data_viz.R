@@ -85,7 +85,7 @@ a_pigl_longer <- a_pigl %>%
 
 # bind the 4 tables together 
 ring_counts <- bind_rows(c_potr_longer, a_potr_longer, c_pigl_longer, a_pigl_longer)
-view(ring_counts)
+#view(ring_counts)
 
 # PLOT RING COUNTS ----
 
@@ -114,7 +114,7 @@ ring_counts %>%
   ggtitle("Breast height samples")
 
 # Save as PNG in working directory
-ggsave("code/figures/breast_plot.png", width = 15, height = 12, dpi = 300)
+#ggsave("code/figures/breast_plot.png", width = 15, height = 12, dpi = 300)
 
 
 # make ggridges plot - basal height samples 
@@ -135,7 +135,7 @@ ring_counts %>%
   ggtitle("Basal height samples")
 
 # Save as PNG in working directory
-ggsave("code/figures/basal_plot.png", width = 15, height = 12, dpi = 300)
+#ggsave("code/figures/basal_plot.png", width = 15, height = 12, dpi = 300)
 
 
 # make ggridges plot - basal PIGL breast POTR height samples 
@@ -156,7 +156,7 @@ ring_counts %>%
   ggtitle("basal PIGL breast POTR height samples")
 
 # Save as PNG in working directory
-ggsave("code/figures/basal_breast_plot.png", width = 15, height = 12, dpi = 300)
+#ggsave("code/figures/basal_breast_plot.png", width = 15, height = 12, dpi = 300)
 
 # BUILD CHRONOLOGY ----
 
@@ -209,7 +209,7 @@ plot.crn(grow.crn, add.spline = TRUE) #plot crn
 bai_a_potr <- bai.in(rwl = a_potr_rwl) %>%
   as.data.frame() %>%
   rownames_to_column(var = "year") 
-View(bai_a_potr)
+#View(bai_a_potr)
 
 # convert to long format 
 bai_a_potr_long <- bai_a_potr %>%
@@ -225,7 +225,7 @@ bai_a_potr_long <- bai_a_potr %>%
   mutate(unique_id = paste(decade, site_rep, tree, sep = "-")) %>% # make a unique_id column that is SideID-TreeNumber to be used later to join with ring width data
   mutate(tree_rep = str_sub(tree, 1, 2)) %>%
   dplyr::filter(!tree_rep > 30)
-  View(bai_a_potr_long)
+ #View(bai_a_potr_long)
 
 ## make plot with individual trees
 bai_a_potr_long %>%
@@ -245,7 +245,7 @@ bai_a_potr_long_summary <- bai_a_potr_long %>%
     .groups = "drop"
   ) %>%
   mutate(species = "POTR", core = "breast")
-View(bai_a_potr_long_summary)
+#View(bai_a_potr_long_summary)
 
 ## make plot with means instead of individual trees
 bai_a_potr_long_summary %>%
@@ -269,7 +269,7 @@ bai_a_potr_long_summary %>%
 bai_a_pigl <- bai.in(rwl = a_pigl_rwl) %>%
   as.data.frame() %>%
   rownames_to_column(var = "year")
-View(bai_a_pigl)
+#View(bai_a_pigl)
 
 # convert to long format 
 bai_a_pigl_long <- bai_a_pigl %>%
@@ -283,7 +283,7 @@ bai_a_pigl_long <- bai_a_pigl %>%
   mutate(site_rep = str_extract(site, "(?<=F).*"))  %>%    # full everything F (only had margins in 2025)
   mutate(tree = str_extract(series_id, "(?<=T).*"))  %>%    # take everything after T
   mutate(unique_id = paste(decade, site_rep, tree, sep = "-")) # make a unique_id column that is SideID-TreeNumber to be used later to join with ring width data
-View(bai_a_pigl_long)
+#View(bai_a_pigl_long)
 
 ## make plot with individual trees
 bai_a_pigl_long %>%
@@ -333,7 +333,7 @@ bai_a_pigl_long_summary %>%
 bai_c_pigl <- bai.in(rwl = c_pigl_rwl) %>%
   as.data.frame() %>%
   rownames_to_column(var = "year")
-View(bai_c_pigl)
+#View(bai_c_pigl)
 
 # convert to long format 
 bai_c_pigl_long <- bai_c_pigl %>%
@@ -393,7 +393,7 @@ bai_c_pigl_long_summary %>%
 # JOIN POTR BREAST AND PIGL BASAL INTO ONE PLOT
 
 interspecific <- bind_rows(bai_a_potr_long_summary, bai_c_pigl_long_summary)
-view(interspecific)
+#view(interspecific)
 
 ## make plot with both species means
 interspecific %>%
@@ -427,7 +427,7 @@ interspecific %>%
   xlab("") + ylab("Mean Basal Area Increment")
   
 # Save as PNG in working directory
-ggsave("code/figures/interspecific_site.png", width = 10, height = 6, dpi = 300)
+#ggsave("code/figures/interspecific_site.png", width = 10, height = 6, dpi = 300)
 
 ## calculate species-level means:
 interspecific_summary <- interspecific %>%
@@ -441,7 +441,6 @@ interspecific_summary <- interspecific %>%
     .groups = "drop"
   )
   
-
 interspecific_summary %>%
   mutate(year = as.numeric(year)) %>%
   dplyr::filter(year > 1959) %>%
@@ -464,6 +463,6 @@ interspecific_summary %>%
   xlab("") + ylab("Mean Basal Area Increment")
 
 # Save as PNG in working directory
-ggsave("code/figures/interspecific_species.png", width = 10, height = 6, dpi = 300)
+#ggsave("code/figures/interspecific_species.png", width = 10, height = 6, dpi = 300)
 
 
