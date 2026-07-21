@@ -1,0 +1,2306 @@
+#DENDRO F:\tree-rings\C_PIGL.fil     2026-07-21 3:24:47 PM
+#C DATED 2026
+## CDendro=9.8.1  March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+YT_2024_WLU\00B4_WET_BENE_PIGL\C_PIGL\00B4T08C.pos  3 - 10  #C#Written=2025-04-05 15:20:05; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00B4_WET_BENE_PIGL\C_PIGL\00B4T09C.pos  3 - 10  #C#Written=2025-04-05 15:21:50; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00B4_WET_BENE_PIGL\C_PIGL\00B4T10C.pos  3 - 14  #C#Written=2025-04-05 15:22:42; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00B4_WET_BENE_PIGL\C_PIGL\00B4T11C.pos  3 - 13  #C#Written=2025-04-05 15:23:27; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00B4_WET_BENE_PIGL\C_PIGL\00B4T12C.pos  3 - 10  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-05 15:16:34; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00C3_MID_PIMA_PIGL\C_PIGL\00C3T02C.pos  3 - 83  #C#PithCoordinates=64.378,19.283; DistanceToPith=5.7; YearsToPith=7; 
+## Radius=60.769; CalcRadius=Yes; Written=2025-04-15 11:31:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00C7_PIGL_ALL_MEASURED\C-PIGL\00C7T01C.pos  3 - 14  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-09 11:08:10; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00C7_PIGL_ALL_MEASURED\C-PIGL\00C7T02C.pos  3 - 15  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-09 11:16:02; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00M2_MID_POTR_PIMA_PIGL\C_PIGL\00M2T01C.pos  3 - 42  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-15 13:12:55; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00M2_MID_POTR_PIMA_PIGL\C_PIGL\00M2T02C.pos  3 - 34  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-09 16:56:30; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00M2_MID_POTR_PIMA_PIGL\C_PIGL\00M2T03C.pos  3 - 30  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-10 15:48:56; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00M2_MID_POTR_PIMA_PIGL\C_PIGL\00M2T04C.pos  3 - 25  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-10 16:03:44; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00M2_MID_POTR_PIMA_PIGL\C_PIGL\00M2T05C.pos  3 - 35  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-10 16:13:45; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00M6_POTR_PIGL_ALL_MEASURED\C_PIGL\00M6T03C.pos  3 - 14  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-03 10:07:34; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\00M6_POTR_PIGL_ALL_MEASURED\C_PIGL\00M6T09C.pos  3 - 14  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-03 10:08:26; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\00M6_POTR_PIGL_ALL_MEASURED\C_PIGL\00M6T10C.pos  3 - 9  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-03 10:09:22; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\00U4_WET_PIGL_ALL_MEASURED\C_PIGL\00U4T01C.pos  3 - 16  #C#CalcRadius=Yes; Written=2026-07-21 14:40:21; DistanceToPith=0.0; 
+## YearsToPith=0; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\00U4_WET_PIGL_ALL_MEASURED\C_PIGL\00U4T02C.pos  3 - 14  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 11:03:44; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\00U4_WET_PIGL_ALL_MEASURED\C_PIGL\00U4T03C.pos  3 - 13  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 11:12:49; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B1_DRY_POTR_PIGL\C_PIGL\50B1T11C.pos  3 - 61  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 14:59:46; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B1_DRY_POTR_PIGL\C_PIGL\50B1T12C.pos  3 - 60  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 15:22:53; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B1_DRY_POTR_PIGL\C_PIGL\50B1T13C.pos  3 - 62  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 15:33:27; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B1_DRY_POTR_PIGL\C_PIGL\50B1T14C.pos  3 - 65  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 15:45:53; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B1_DRY_POTR_PIGL\C_PIGL\50B1T15C.pos  3 - 58  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 15:57:18; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B4_MID_POTR_PIGL\C_PIGL\50B4T01C.pos  3 - 39  #C#PithCoordinates=142.653,-4.699; DistanceToPith=10.9; YearsToPith=5; 
+## Radius=132.334; CalcRadius=Yes; Written=2025-04-22 16:13:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B4_MID_POTR_PIGL\C_PIGL\50B4T03C.pos  3 - 49  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-22 16:21:07; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B4_MID_POTR_PIGL\C_PIGL\50B4T13C.pos  3 - 31  #C#PithCoordinates=58.124,9.260; DistanceToPith=2.0; YearsToPith=1; 
+## Radius=51.604; CalcRadius=Yes; Written=2025-04-24 14:09:59; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B5_MID_PIGL_POTR\C_PIGL\50B5T01C.pos  3 - 46  #C#PithCoordinates=90.805,17.716; DistanceToPith=4.1; YearsToPith=7; 
+## Radius=79.999; CalcRadius=Yes; Written=2025-04-24 14:30:27; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B5_MID_PIGL_POTR\C_PIGL\50B5T02C.pos  3 - 33  #C#PithCoordinates=50.789,13.674; DistanceToPith=1.0; YearsToPith=1; 
+## Radius=41.042; CalcRadius=Yes; Written=2025-04-24 14:54:35; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50B5_MID_PIGL_POTR\C_PIGL\50B5T06C.pos  3 - 31  #C#PithCoordinates=55.076,2.275; DistanceToPith=8.5; YearsToPith=5; 
+## Radius=50.292; CalcRadius=Yes; Written=2025-04-24 17:02:41; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C2_DRY_PIGL\C_PIGL\50C2T01C.pos  3 - 64  #C#Written=2025-02-18 15:07:29; 
+## LicencedTo=Ellen Macdonald, macdonald.ellen8@gmail.com; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## CooRecorder=7.8.1 Dec 20 2014; 
+## 
+YT_2024_WLU\50C2_DRY_PIGL\C_PIGL\50C2T02C.pos  3 - 67  #C#Written=2025-02-18 16:36:53; 
+## LicencedTo=Ellen Macdonald, macdonald.ellen8@gmail.com; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## CooRecorder=7.8.1 Dec 20 2014; 
+## 
+YT_2024_WLU\50C2_DRY_PIGL\C_PIGL\50C2T03C.pos  3 - 61  #C#LicencedTo=Ellen Macdonald, macdonald.ellen8@gmail.com; 
+## CooRecorder=7.8.1 Dec 20 2014; 
+## 
+YT_2024_WLU\50C2_DRY_PIGL\C_PIGL\50C2T04C.pos  3 - 38  #C#DistanceToPith=3.5; YearsToPith=11; Radius=18.658; CalcRadius=Yes; 
+## PithCoordinates=4.297,-6.921; 
+## LicencedTo=Ellen Macdonald, macdonald.ellen8@gmail.com; 
+## CooRecorder=7.8.1 Dec 20 2014; 
+## 
+YT_2024_WLU\50C2_DRY_PIGL\C_PIGL\50C2T06C.pos  3 - 68  #C#DistanceToPith=6.4; YearsToPith=10; Radius=19.442; CalcRadius=Yes; 
+## PithCoordinates=21.061,-5.810; 
+## LicencedTo=Ellen Macdonald, macdonald.ellen8@gmail.com; 
+## CooRecorder=7.8.1 Dec 20 2014; 
+## 
+YT_2024_WLU\50C4_WET_PIGL\C_PIGL\50C4T01C.pos  3 - 135  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-02-25 11:46:16; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C4_WET_PIGL\C_PIGL\50C4T03C.pos  3 - 146  #C#PithCoordinates=45.032,12.933; DistanceToPith=0.9; YearsToPith=1; 
+## Radius=86.836; CalcRadius=Yes; Written=2025-02-25 13:14:59; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C4_WET_PIGL\C_PIGL\50C4T04C.pos  3 - 132  #C#Written=2025-02-25 14:25:21; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C4_WET_PIGL\C_PIGL\50C4T08C.pos  3 - 140  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-02-25 15:12:04; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C5_WET_PIGL\C_PIGL\50C5T03C.pos  3 - 116  #C#PithCoordinates=82.952,-2.032; DistanceToPith=9.1; YearsToPith=14; 
+## Radius=79.079; CalcRadius=Yes; Written=2025-04-29 16:40:15; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C5_WET_PIGL\C_PIGL\50C5T04C.pos  3 - 157  #C#PithCoordinates=67.225,15.917; DistanceToPith=5.2; YearsToPith=7; 
+## Radius=61.320; CalcRadius=Yes; Written=2025-05-01 12:52:34; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C5_WET_PIGL\C_PIGL\50C5T06C.pos  3 - 183  #C#PithCoordinates=60.875,9.885; DistanceToPith=1.4; YearsToPith=3; 
+## Radius=56.187; CalcRadius=Yes; Written=2025-05-01 17:32:29; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C5_WET_PIGL\C_PIGL\50C5T09C.pos  3 - 129  #C#PithCoordinates=65.617,-1.344; DistanceToPith=7.3; YearsToPith=26; 
+## Radius=57.785; CalcRadius=Yes; Written=2025-05-05 12:38:41; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50C5_WET_PIGL\C_PIGL\50C5T10C.pos  3 - 121  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-05 13:28:46; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\50F05_PIGL_POTR_MEASURED\C_PIGL\50F05T02C.pos  2 - 59  #C#PithCoordinates=95.165,4.371; DistanceToPith=0.7; YearsToPith=1; 
+## Radius=86.402; CalcRadius=Yes; Written=2026-06-04 16:59:04; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F05_PIGL_POTR_MEASURED\C_PIGL\50F05T03C.pos  2 - 52  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-04 17:06:06; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F05_PIGL_POTR_MEASURED\C_PIGL\50F05T04C.pos  2 - 54  #C#PithCoordinates=35.475,5.016; DistanceToPith=2.0; YearsToPith=3; 
+## Radius=48.683; CalcRadius=Yes; Written=2026-06-04 17:09:58; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F05_PIGL_POTR_MEASURED\C_PIGL\50F05T06C.pos  2 - 35  #C#PithCoordinates=38.767,1.439; DistanceToPith=4.9; YearsToPith=5; 
+## Radius=36.745; CalcRadius=Yes; Written=2026-06-04 17:14:14; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F05_PIGL_POTR_MEASURED\C_PIGL\50F05T07C.pos  2 - 44  #C#Written=2026-06-04 17:10:53; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F05_PIGL_POTR_MEASURED\C_PIGL\50F05T08C.pos  2 - 54  #C#PithCoordinates=52.959,7.683; DistanceToPith=1.1; YearsToPith=1; 
+## Radius=49.117; CalcRadius=Yes; Written=2026-06-04 17:12:09; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F08_PIMA_PIGL_MEASURED\C_PIGL\50F08T01C.pos  2 - 144  #C#PithCoordinates=122.396,14.288; DistanceToPith=2.7; YearsToPith=2; 
+## Radius=120.883; CalcRadius=Yes; Written=2026-06-09 13:58:10; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F08_PIMA_PIGL_MEASURED\C_PIGL\50F08T03C.pos  4 - 124  #C#PithCoordinates=49.826,14.457; DistanceToPith=6.6; YearsToPith=4; 
+## Radius=61.542; CalcRadius=Yes; Written=2026-06-09 14:02:32; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F08_PIMA_PIGL_MEASURED\C_PIGL\50F08T04C.pos  2 - 123  #C#PithCoordinates=83.100,16.055; DistanceToPith=5.0; YearsToPith=10; 
+## Radius=79.386; CalcRadius=Yes; Written=2026-06-09 14:04:44; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F08_PIMA_PIGL_MEASURED\C_PIGL\50F08T05C.pos  2 - 140  #C#PithCoordinates=63.521,13.092; DistanceToPith=2.1; YearsToPith=1; 
+## Radius=59.468; CalcRadius=Yes; Written=2026-06-09 14:10:23; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F08_PIMA_PIGL_MEASURED\C_PIGL\50F08T17C.pos  2 - 128  #C#PithCoordinates=72.856,2.783; DistanceToPith=5.0; YearsToPith=4; 
+## Radius=66.125; CalcRadius=Yes; Written=2026-06-09 14:11:58; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F09_PIMA_PIGL_PRIORITY_MEASURED\C_PIGL\50F09T02C.pos  2 - 40  #C#PithCoordinates=37.454,4.307; DistanceToPith=2.7; YearsToPith=1; 
+## Radius=34.872; CalcRadius=Yes; Written=2026-06-09 14:30:26; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F09_PIMA_PIGL_PRIORITY_MEASURED\C_PIGL\50F09T03C.pos  3 - 37  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-09 14:31:14; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F09_PIMA_PIGL_PRIORITY_MEASURED\C_PIGL\50F09T04C.pos  4 - 31  #C#Written=2026-06-09 14:34:15; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F09_PIMA_PIGL_PRIORITY_MEASURED\C_PIGL\50F09T06C.pos  3 - 50  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-09 14:35:13; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F09_PIMA_PIGL_PRIORITY_MEASURED\C_PIGL\50F09T07C.pos  3 - 46  #C#PithCoordinates=52.578,2.572; DistanceToPith=3.6; YearsToPith=2; 
+## Radius=49.033; CalcRadius=Yes; Written=2026-06-09 14:36:03; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F13_PIMA_PIGL_PRIORITY_MEASURED\C_PIGL\50F13T03C.pos  2 - 85  #C#odd centre of core
+## Written=2026-06-09 14:40:25; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F15_PIGL_MEASURED\C_PIGL\50F15T01C.pos  2 - 32  #C#PithCoordinates=44.852,1.715; DistanceToPith=4.4; YearsToPith=2; 
+## Radius=39.698; CalcRadius=Yes; Written=2026-06-09 15:15:49; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F15_PIGL_MEASURED\C_PIGL\50F15T03C.pos  3 - 38  #C#PithCoordinates=45.106,5.408; DistanceToPith=1.8; YearsToPith=1; 
+## Radius=39.698; CalcRadius=Yes; Written=2026-06-09 15:16:29; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F15_PIGL_MEASURED\C_PIGL\50F15T04C.pos  3 - 40  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-09 15:16:58; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F15_PIGL_MEASURED\C_PIGL\50F15T06C.pos  3 - 37  #C#PithCoordinates=71.946,16.605; DistanceToPith=4.5; YearsToPith=1; 
+## Radius=68.220; CalcRadius=Yes; Written=2026-06-09 15:17:41; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F15_PIGL_MEASURED\C_PIGL\50F15T10C.pos  2 - 43  #C#PithCoordinates=55.912,12.880; DistanceToPith=1.1; YearsToPith=1; 
+## Radius=50.228; CalcRadius=Yes; Written=2026-06-09 15:18:06; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F16_PIGL_MEASURED\C_PIGL\50F16T03C.pos  2 - 62  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-09 15:38:57; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F16_PIGL_MEASURED\C_PIGL\50F16T05C.pos  2 - 75  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-09 15:40:09; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F16_PIGL_MEASURED\C_PIGL\50F16T08C.pos  2 - 37  #C#PithCoordinates=55.510,14.753; DistanceToPith=4.0; YearsToPith=1; 
+## Radius=47.688; CalcRadius=Yes; Written=2026-06-09 15:40:42; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F16_PIGL_MEASURED\C_PIGL\50F16T09C.pos  2 - 40  #C#PithCoordinates=35.486,6.784; DistanceToPith=1.1; YearsToPith=1; 
+## Radius=31.623; CalcRadius=Yes; Written=2026-04-02 15:21:18; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F16_PIGL_MEASURED\C_PIGL\50F16T10C.pos  2 - 34  #C#PithCoordinates=33.676,5.514; DistanceToPith=0.9; YearsToPith=1; 
+## Radius=28.945; CalcRadius=Yes; Written=2026-04-02 15:40:49; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F17_PIGL_MEASURED\C_PIGL\50F17T01C.pos  2 - 61  #C#PithCoordinates=130.704,16.637; DistanceToPith=4.7; YearsToPith=2; 
+## Radius=125.783; CalcRadius=Yes; Written=2026-06-09 16:01:22; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F17_PIGL_MEASURED\C_PIGL\50F17T03C.pos  2 - 63  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-09 16:02:02; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F17_PIGL_MEASURED\C_PIGL\50F17T04C.pos  2 - 57  #C#PithCoordinates=83.640,19.050; DistanceToPith=5.9; YearsToPith=3; 
+## Radius=75.269; CalcRadius=Yes; Written=2026-06-09 16:02:40; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F17_PIGL_MEASURED\C_PIGL\50F17T05C.pos  2 - 71  #C#PithCoordinates=70.358,3.990; DistanceToPith=2.5; YearsToPith=7; 
+## Radius=65.606; CalcRadius=Yes; Written=2026-06-09 16:03:14; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F17_PIGL_MEASURED\C_PIGL\50F17T06C.pos  3 - 70  #C#PithCoordinates=105.145,3.154; DistanceToPith=4.9; YearsToPith=2; 
+## Radius=100.626; CalcRadius=Yes; Written=2026-06-09 16:03:45; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F21_PIMA_PIGL_PRIORITY_MEASURED\C_PIGL\50F21T05C.pos  1 - 80  #C#PithCoordinates=38.555,1.884; DistanceToPith=5.8; YearsToPith=3; 
+## Radius=35.835; CalcRadius=Yes; Written=2026-06-09 16:13:08; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F22_PIGL_MEASURED\C_PIGL\50F22T04C.pos  2 - 48  #C#PithCoordinates=93.091,-7.250; DistanceToPith=15.1; YearsToPith=4; 
+## Radius=88.191; CalcRadius=Yes; Written=2026-06-10 11:35:28; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F22_PIGL_MEASURED\C_PIGL\50F22T05C.pos  2 - 51  #C#PithCoordinates=121.878,-5.747; DistanceToPith=14.7; YearsToPith=2; 
+## Radius=114.903; CalcRadius=Yes; Written=2026-06-10 11:36:35; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F22_PIGL_MEASURED\C_PIGL\50F22T06C.pos  2 - 35  #C#PithCoordinates=68.929,0.878; DistanceToPith=8.5; YearsToPith=2; 
+## Radius=62.844; CalcRadius=Yes; Written=2026-06-10 11:37:39; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F22_PIGL_MEASURED\C_PIGL\50F22T09C.pos  2 - 33  #C#PithCoordinates=71.967,-4.741; DistanceToPith=11.9; YearsToPith=2; 
+## Radius=66.241; CalcRadius=Yes; Written=2026-06-10 11:39:45; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\50F22_PIGL_MEASURED\C_PIGL\50F22T11C.pos  2 - 57  #C#PithCoordinates=108.342,17.082; DistanceToPith=4.3; YearsToPith=1; 
+## Radius=101.240; CalcRadius=Yes; Written=2026-06-10 11:40:32; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\50M1_WET_PIGL\C_PIGL\50M1T03C.pos  3 - 57  #C#Written=2025-04-07 13:30:57; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M1_WET_PIGL\C_PIGL\50M1T05C.pos  3 - 49  #C#PithCoordinates=70.485,4.466; DistanceToPith=4.1; YearsToPith=3; 
+## Radius=64.791; CalcRadius=Yes; Written=2025-05-05 16:09:34; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M1_WET_PIGL\C_PIGL\50M1T06C.pos  3 - 46  #C#PithCoordinates=93.737,22.447; DistanceToPith=11.3; YearsToPith=6; 
+## Radius=90.657; CalcRadius=Yes; Written=2025-04-07 13:34:43; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M1_WET_PIGL\C_PIGL\50M1T06G.pos  3 - 50  #C#PithCoordinates=94.880,5.376; DistanceToPith=2.4; YearsToPith=2; 
+## CalcRadius=Yes; Radius=89.270; Written=2025-04-07 13:35:18; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M1_WET_PIGL\C_PIGL\50M1T07C.pos  3 - 49  #C#Written=2025-04-07 13:36:01; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M6_WET_PIGL\C_PIGL\50M6T01C.pos  3 - 47  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-05 16:52:56; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M6_WET_PIGL\C_PIGL\50M6T02C.pos  3 - 52  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-06 10:43:26; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M6_WET_PIGL\C_PIGL\50M6T04C.pos  3 - 58  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-06 11:49:20; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M6_WET_PIGL\C_PIGL\50M6T06C.pos  3 - 61  #C#PithCoordinates=50.292,6.805; DistanceToPith=1.8; YearsToPith=3; 
+## Radius=44.916; CalcRadius=Yes; Written=2025-05-06 13:21:06; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50M6_WET_PIGL\C_PIGL\50M6T08C.pos  3 - 68  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-06 14:09:26; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U2_DRY_POTR_PIGL\C_PIGL\50U2T08C.pos  3 - 34  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-07 17:36:49; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U2_DRY_POTR_PIGL\C_PIGL\50U2T09C.pos  3 - 27  #C#PithCoordinates=54.070,6.551; DistanceToPith=0.8; YearsToPith=1; 
+## Radius=46.069; CalcRadius=Yes; Written=2025-05-07 17:39:59; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U3_DRY_POTR_PIGL\C_PIGL\50U3T05C.pos  3 - 30  #C#PithCoordinates=34.364,6.646; DistanceToPith=2.1; YearsToPith=5; 
+## Radius=43.572; CalcRadius=Yes; Written=2025-05-08 13:17:59; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U3_DRY_POTR_PIGL\C_PIGL\50U3T11C.pos  3 - 26  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-08 15:00:40; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U3_DRY_POTR_PIGL\C_PIGL\50U3T13C.pos  3 - 35  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-08 15:04:05; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U3_DRY_POTR_PIGL\C_PIGL\50U3T14C.pos  3 - 26  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-08 15:07:08; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U3_DRY_POTR_PIGL\C_PIGL\50U3T15C.pos  3 - 57  #C#PithCoordinates=114.755,6.308; DistanceToPith=3.7; YearsToPith=4; 
+## Radius=105.823; CalcRadius=Yes; Written=2025-05-08 15:13:42; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U4_DRY_PIGL_ALL_MEASURED\C_PIGL\50U4T01C.pos  3 - 31  #C#PithCoordinates=26.659,14.277; DistanceToPith=1.2; YearsToPith=3; 
+## Radius=21.918; CalcRadius=Yes; Written=2025-04-07 12:57:02; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U4_DRY_PIGL_ALL_MEASURED\C_PIGL\50U4T02C.pos  3 - 54  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-03-04 15:08:45; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U4_DRY_PIGL_ALL_MEASURED\C_PIGL\50U4T05C.pos  3 - 43  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-03-04 15:27:41; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U4_DRY_PIGL_ALL_MEASURED\C_PIGL\50U4T07C.pos  3 - 47  #C#PithCoordinates=84.317,19.209; DistanceToPith=4.7; YearsToPith=8; 
+## Radius=79.079; CalcRadius=Yes; Written=2025-03-04 15:38:07; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U4_DRY_PIGL_ALL_MEASURED\C_PIGL\50U4T09C.pos  3 - 32  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-03-04 16:18:22; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T02C.pos  3 - 61  #C#Written=2025-04-07 12:21:37; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T03C.pos  3 - 62  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-03-05 16:06:41; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T04C.pos  3 - 31  #C#PithCoordinates=52.197,11.261; DistanceToPith=6.9; YearsToPith=9; 
+## Radius=39.201; CalcRadius=Yes; Written=2025-03-05 16:41:31; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T09C.pos  3 - 133  #C#Written=2025-04-07 12:44:15; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T10C.pos  3 - 95  #C#PithCoordinates=71.850,9.842; DistanceToPith=1.9; YearsToPith=5; 
+## Radius=65.722; CalcRadius=Yes; Written=2025-03-06 13:27:29; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T11C.pos  3 - 57  #C#PithCoordinates=90.212,16.563; DistanceToPith=4.1; YearsToPith=4; 
+## Radius=83.248; CalcRadius=Yes; Written=2025-05-08 16:42:17; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T12C.pos  3 - 61  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-08 16:47:17; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\50U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\50U6T13C.pos  3 - 54  #C#PithCoordinates=69.278,6.361; DistanceToPith=2.4; YearsToPith=10; 
+## Radius=63.500; CalcRadius=Yes; Written=2025-05-08 16:52:37; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B1_DRY_POTR_PIGL\C_PIGL\60B1T06C.pos  3 - 34  #C#PithCoordinates=25.252,6.604; DistanceToPith=1.3; YearsToPith=2; 
+## Radius=21.167; CalcRadius=Yes; Written=2025-05-09 15:49:16; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B1_DRY_POTR_PIGL\C_PIGL\60B1T07C.pos  3 - 34  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-09 15:51:26; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B3_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B3T11C.pos  3 - 18  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-13 15:54:11; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B3_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B3T12C.pos  3 - 19  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-13 15:55:46; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B3_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B3T13C.pos  3 - 15  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-03 14:28:34; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\60B3_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B3T14C.pos  3 - 16  #C#PithCoordinates=20.151,12.689; DistanceToPith=0.7; YearsToPith=1; 
+## Radius=13.134; CalcRadius=Yes; Written=2025-05-13 15:59:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B3_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B3T15C.pos  3 - 31  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-13 16:04:51; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B4_MID_POTR_PIGL\C_PIGL\60B4T11C.pos  3 - 19  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-15 13:12:06; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B4_MID_POTR_PIGL\C_PIGL\60B4T12C.pos  3 - 20  #C#PithCoordinates=25.908,14.700; DistanceToPith=2.9; YearsToPith=8; 
+## Radius=14.182; CalcRadius=Yes; Written=2025-05-15 13:14:51; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B4_MID_POTR_PIGL\C_PIGL\60B4T13C.pos  3 - 30  #C#PithCoordinates=31.464,13.367; DistanceToPith=2.0; YearsToPith=4; 
+## Radius=26.638; CalcRadius=Yes; Written=2025-05-15 13:20:25; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B4_MID_POTR_PIGL\C_PIGL\60B4T14C.pos  3 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-15 13:26:49; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B4_MID_POTR_PIGL\C_PIGL\60B4T15C.pos  3 - 28  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-15 13:29:52; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B5_MID_POTR_PIGL\C_PIGL\60B5T02C.pos  3 - 16  #C#PithCoordinates=17.854,16.192; DistanceToPith=3.8; YearsToPith=4; 
+## Radius=16.542; CalcRadius=Yes; Written=2025-05-15 14:01:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B5_MID_POTR_PIGL\C_PIGL\60B5T03C.pos  3 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-15 14:04:23; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B5_MID_POTR_PIGL\C_PIGL\60B5T04C.pos  3 - 25  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-21 14:47:09; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\60B5_MID_POTR_PIGL\C_PIGL\60B5T06C.pos  3 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-15 14:06:36; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B5_MID_POTR_PIGL\C_PIGL\60B5T08C.pos  3 - 30  #C#PithCoordinates=32.427,5.789; DistanceToPith=1.9; YearsToPith=4; 
+## Radius=28.109; CalcRadius=Yes; Written=2025-05-15 14:30:43; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B6_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B6T04C.pos  3 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-20 10:21:28; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B6_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B6T09C.pos  3 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-20 13:14:33; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B6_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B6T12C.pos  3 - 27  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-20 13:56:19; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B6_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B6T13C.pos  3 - 27  #C#PithCoordinates=22.130,6.530; DistanceToPith=0.9; YearsToPith=2; 
+## Radius=13.758; CalcRadius=Yes; Written=2025-05-20 14:00:11; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60B6_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B6T14C.pos  3 - 23  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-03 14:32:01; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\60B6_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60B6T15C.pos  3 - 17  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-20 14:02:08; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C1_WET_PIGL\C_PIGL\60C1T01C.pos  3 - 163  #C#PithCoordinates=105.611,17.113; DistanceToPith=4.9; YearsToPith=12; 
+## Radius=100.753; CalcRadius=Yes; Written=2025-03-06 14:07:31; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C1_WET_PIGL\C_PIGL\60C1T02C.pos  3 - 162  #C#PithCoordinates=112.289,19.346; DistanceToPith=6.0; YearsToPith=7; 
+## Radius=106.225; CalcRadius=Yes; Written=2025-04-07 12:00:51; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C1_WET_PIGL\C_PIGL\60C1T04C.pos  3 - 123  #C#PithCoordinates=92.308,23.294; DistanceToPith=7.4; YearsToPith=10; 
+## Radius=85.408; CalcRadius=Yes; Written=2025-04-07 12:07:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C1_WET_PIGL\C_PIGL\60C1T05C.pos  3 - 126  #C#PithCoordinates=71.702,16.362; DistanceToPith=2.1; YearsToPith=2; 
+## Radius=67.786; CalcRadius=Yes; Written=2025-05-20 14:42:36; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C1_WET_PIGL\C_PIGL\60C1T10C_NOLABEL.pos  3 - 121  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-20 14:29:25; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C1_WET_PIGL\C_PIGL\60C1T4C_NOLABEL.pos  3 - 83  #C#PithCoordinates=46.651,-0.296; DistanceToPith=4.5; YearsToPith=6; 
+## Radius=44.778; CalcRadius=Yes; Written=2025-05-20 14:14:48; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C2_MID_PIGL\C_PIGL\60C2T01C.pos  3 - 65  #C#PithCoordinates=53.922,28.797; DistanceToPith=17.6; YearsToPith=8; 
+## Radius=72.983; CalcRadius=Yes; Written=2025-04-07 10:47:23; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C2_MID_PIGL\C_PIGL\60C2T02C.pos  3 - 96  #C#PithCoordinates=78.592,4.530; DistanceToPith=2.5; YearsToPith=2; 
+## Radius=73.099; CalcRadius=Yes; Written=2025-04-07 10:54:28; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C2_MID_PIGL\C_PIGL\60C2T03C.pos  3 - 84  #C#PithCoordinates=93.419,1.418; DistanceToPith=7.8; YearsToPith=7; 
+## Radius=88.455; CalcRadius=Yes; Written=2025-04-07 10:56:37; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C2_MID_PIGL\C_PIGL\60C2T04C.pos  3 - 91  #C#PithCoordinates=114.840,16.161; DistanceToPith=4.5; YearsToPith=4; 
+## Radius=100.383; CalcRadius=Yes; Written=2025-04-07 10:58:52; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C2_MID_PIGL\C_PIGL\60C2T07C.pos  3 - 79  #C#PithCoordinates=98.224,-2.498; DistanceToPith=11.6; YearsToPith=8; 
+## Radius=94.192; CalcRadius=Yes; Written=2025-04-07 11:48:07; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C3_WET_PIGL\C_PIGL\60C3T03C.pos  3 - 86  #C#Written=2025-04-07 10:31:06; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C3_WET_PIGL\C_PIGL\60C3T04C.pos  3 - 84  #C#PithCoordinates=99.684,-0.169; DistanceToPith=6.8; YearsToPith=5; 
+## Radius=92.530; CalcRadius=Yes; Written=2025-04-07 10:35:54; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C3_WET_PIGL\C_PIGL\60C3T06C.pos  3 - 92  #C#PithCoordinates=122.216,7.715; DistanceToPith=6.1; YearsToPith=15; 
+## Radius=117.486; CalcRadius=Yes; Written=2025-04-07 10:39:50; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C3_WET_PIGL\C_PIGL\60C3T10C.pos  3 - 87  #C#PithCoordinates=92.541,15.335; DistanceToPith=2.7; YearsToPith=2; 
+## Radius=90.403; CalcRadius=Yes; Written=2025-04-07 10:44:57; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C4_PIGL_ALL_MEASURED\C_PIGL\60C4T01C.pos  3 - 47  #C#PithCoordinates=17.981,12.361; DistanceToPith=2.7; YearsToPith=2; 
+## Radius=47.106; CalcRadius=Yes; Written=2025-04-07 10:09:01; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C4_PIGL_ALL_MEASURED\C_PIGL\60C4T06C.pos  3 - 36  #C#PithCoordinates=32.068,1.503; DistanceToPith=7.2; YearsToPith=8; 
+## Radius=31.231; CalcRadius=Yes; Written=2025-04-07 10:10:04; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C4_PIGL_ALL_MEASURED\C_PIGL\60C4T07C.pos  3 - 42  #C#Written=2025-04-07 10:11:54; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C4_PIGL_ALL_MEASURED\C_PIGL\60C4T08C.pos  3 - 34  #C#PithCoordinates=31.030,18.161; DistanceToPith=5.6; YearsToPith=13; 
+## Radius=23.611; CalcRadius=Yes; Written=2025-04-07 10:15:34; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C4_PIGL_ALL_MEASURED\C_PIGL\60C4T10C.pos  3 - 37  #C#PithCoordinates=28.914,3.492; DistanceToPith=3.5; YearsToPith=3; 
+## Radius=27.633; CalcRadius=Yes; Written=2025-04-07 10:19:11; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C6_MID_PIGL\C_PIGL\60C6T04C.pos  3 - 60  #C#PithCoordinates=114.618,4.233; DistanceToPith=9.0; YearsToPith=12; 
+## Radius=107.781; CalcRadius=Yes; Written=2025-04-04 18:14:33; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C6_MID_PIGL\C_PIGL\60C6T05C.pos  3 - 69  #C#PithCoordinates=135.837,-4.773; DistanceToPith=12.7; YearsToPith=11; 
+## Radius=131.022; CalcRadius=Yes; Written=2025-05-20 15:27:36; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C6_MID_PIGL\C_PIGL\60C6T07C.pos  3 - 70  #C#PithCoordinates=112.469,21.061; DistanceToPith=8.5; YearsToPith=7; 
+## Radius=104.214; CalcRadius=Yes; Written=2025-05-20 16:00:30; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C6_MID_PIGL\C_PIGL\60C6T08C.pos  3 - 73  #C#PithCoordinates=98.944,8.181; DistanceToPith=1.1; YearsToPith=1; 
+## Radius=94.806; CalcRadius=Yes; Written=2025-04-04 18:19:00; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C6_MID_PIGL\C_PIGL\60C6T10C.pos  3 - 73  #C#PithCoordinates=114.099,22.130; DistanceToPith=8.9; YearsToPith=7; 
+## Radius=110.543; CalcRadius=Yes; Written=2025-04-04 18:21:57; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C7_MID_PIGL_ALL_MEASURED\C_PIGL\60C7T02C.pos  3 - 49  #C#Written=2025-04-04 17:47:33; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C7_MID_PIGL_ALL_MEASURED\C_PIGL\60C7T03C.pos  3 - 50  #C#Written=2025-04-04 17:50:02; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C7_MID_PIGL_ALL_MEASURED\C_PIGL\60C7T05C.pos  3 - 45  #C#PithCoordinates=36.227,4.339; DistanceToPith=4.0; YearsToPith=4; 
+## Radius=32.755; CalcRadius=Yes; Written=2025-04-04 17:51:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C7_MID_PIGL_ALL_MEASURED\C_PIGL\60C7T06C.pos  3 - 46  #C#PithCoordinates=49.858,17.208; DistanceToPith=3.9; YearsToPith=4; 
+## Radius=45.784; CalcRadius=Yes; Written=2025-04-04 17:53:10; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C7_MID_PIGL_ALL_MEASURED\C_PIGL\60C7T09C.pos  3 - 47  #C#Written=2025-04-04 17:56:28; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C8_MID_PIGL\C_PIGL\60C8T03C.pos  3 - 83  #C#PithCoordinates=53.234,17.293; DistanceToPith=3.9; YearsToPith=4; 
+## Radius=50.091; CalcRadius=Yes; Written=2025-04-04 17:24:11; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C8_MID_PIGL\C_PIGL\60C8T04C.pos  3 - 93  #C#PithCoordinates=105.791,13.695; DistanceToPith=1.7; YearsToPith=4; 
+## Radius=83.661; CalcRadius=Yes; Written=2025-04-04 17:25:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C8_MID_PIGL\C_PIGL\60C8T05C.pos  3 - 73  #C#PithCoordinates=61.330,-2.984; DistanceToPith=11.3; YearsToPith=17; 
+## Radius=57.584; CalcRadius=Yes; Written=2025-04-04 17:27:48; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60C8_MID_PIGL\C_PIGL\60C8T10C.pos  3 - 85  #C#PithCoordinates=66.897,15.187; DistanceToPith=2.4; YearsToPith=2; 
+## Radius=59.849; CalcRadius=Yes; Written=2025-04-04 17:35:28; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\60F04_PIGL_POTR_POBA_PRIORITY_MEASURED\C_PIGL\60F04T22C.pos  2 - 20  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-10 12:04:22; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F04_PIGL_POTR_POBA_PRIORITY_MEASURED\C_PIGL\60F04T23C.pos  2 - 23  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-10 12:06:04; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F04_PIGL_POTR_POBA_PRIORITY_MEASURED\C_PIGL\60F04T24C.pos  2 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-10 12:07:14; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F04_PIGL_POTR_POBA_PRIORITY_MEASURED\C_PIGL\60F04T25C.pos  2 - 30  #C#PithCoordinates=49.858,4.381; DistanceToPith=3.1; YearsToPith=2; 
+## Radius=46.090; CalcRadius=Yes; Written=2026-06-10 12:09:37; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F04_PIGL_POTR_POBA_PRIORITY_MEASURED\C_PIGL\60F04T26C.pos  2 - 30  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-10 12:11:19; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F06_PIGL_POTR_MEASURED\C_PIGL\60F06T11C.pos  2 - 32  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-11 13:52:35; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F06_PIGL_POTR_MEASURED\C_PIGL\60F06T12C.pos  3 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-11 13:54:45; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F06_PIGL_POTR_MEASURED\C_PIGL\60F06T13C.pos  2 - 30  #C#PithCoordinates=23.802,12.721; DistanceToPith=1.8; YearsToPith=2; 
+## Radius=20.595; CalcRadius=Yes; Written=2026-05-11 13:56:12; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F06_PIGL_POTR_MEASURED\C_PIGL\60F06T14C.pos  2 - 41  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-11 13:58:55; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F06_PIGL_POTR_MEASURED\C_PIGL\60F06T15C.pos  2 - 45  #C#PithCoordinates=115.221,19.188; DistanceToPith=3.9; YearsToPith=1; 
+## Radius=110.204; CalcRadius=Yes; Written=2026-05-11 14:03:30; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\60F06_PIGL_POTR_MEASURED\C_PIGL\60F06T21C.pos  2 - 105  #C#Written=2026-05-11 14:10:09; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\60M1_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\60M1T01C.pos  3 - 40  #C#Written=2025-04-04 16:57:47; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M1_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\60M1T03C.pos  3 - 35  #C#PithCoordinates=24.066,14.457; DistanceToPith=2.3; YearsToPith=6; 
+## CalcRadius=Yes; Radius=21.198; Written=2025-04-04 17:02:08; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M1_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\60M1T04C.pos  3 - 40  #C#Written=2025-04-04 17:05:03; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M1_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\60M1T07C.pos  3 - 42  #C#Written=2025-04-04 17:11:06; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M1_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\60M1T12C.pos  3 - 40  #C#Written=2025-04-04 17:17:04; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M2_WET_PIGL\C_PIGL\60M2T02C.pos  3 - 72  #C#Written=2025-04-03 15:59:13; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M2_WET_PIGL\C_PIGL\60M2T03C.pos  3 - 59  #C#PithCoordinates=38.682,13.356; DistanceToPith=0.9; YearsToPith=3; 
+## Radius=34.237; CalcRadius=Yes; Written=2025-04-04 16:37:56; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M2_WET_PIGL\C_PIGL\60M2T04C.pos  3 - 48  #C#PithCoordinates=40.672,6.022; DistanceToPith=2.2; YearsToPith=9; 
+## Radius=36.280; CalcRadius=Yes; Written=2025-04-04 16:39:45; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M2_WET_PIGL\C_PIGL\60M2T07C.pos  3 - 51  #C#PithCoordinates=23.580,5.577; DistanceToPith=3.9; YearsToPith=14; 
+## Radius=21.336; CalcRadius=Yes; Written=2025-04-04 16:46:35; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M2_WET_PIGL\C_PIGL\60M2T08C.pos  3 - 69  #C#PithCoordinates=32.946,6.900; DistanceToPith=2.8; YearsToPith=14; 
+## Radius=26.681; CalcRadius=Yes; Written=2025-04-04 16:50:06; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M3_WET_PIGL_ALL_MEASURED\C_PIGL\60M3T02C.pos  3 - 19  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-20 16:51:21; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M3_WET_PIGL_ALL_MEASURED\C_PIGL\60M3T04C.pos  3 - 17  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-20 16:53:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M3_WET_PIGL_ALL_MEASURED\C_PIGL\60M3T05C.pos  3 - 16  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-03 16:01:51; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\60M3_WET_PIGL_ALL_MEASURED\C_PIGL\60M3T08C.pos  3 - 32  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-03 16:03:59; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\60M3_WET_PIGL_ALL_MEASURED\C_PIGL\60M3T09C.pos  3 - 28  #C#PithCoordinates=38.767,6.985; DistanceToPith=0.7; YearsToPith=1; 
+## Radius=27.167; CalcRadius=Yes; Written=2025-05-20 17:03:47; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M4_MID_PIGL_POTR_ALL_MEASURED\C_PIGL\60M4T05C.pos  3 - 31  #C#PithCoordinates=22.913,14.044; DistanceToPith=2.2; YearsToPith=4; 
+## Radius=18.828; CalcRadius=Yes; Written=2025-04-03 15:42:54; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M4_MID_PIGL_POTR_ALL_MEASURED\C_PIGL\60M4T09C.pos  3 - 33  #C#PithCoordinates=19.166,16.108; DistanceToPith=2.8; YearsToPith=7; 
+## Radius=15.314; CalcRadius=Yes; Written=2025-05-21 15:03:58; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M4_MID_PIGL_POTR_ALL_MEASURED\C_PIGL\60M4T12C.pos  3 - 34  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-21 15:16:07; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M4_MID_PIGL_POTR_ALL_MEASURED\C_PIGL\60M4T15C.pos  3 - 38  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-21 15:32:23; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M4_MID_PIGL_POTR_ALL_MEASURED\C_PIGL\60M4T16C.pos  3 - 37  #C#PithCoordinates=33.846,4.932; DistanceToPith=2.6; YearsToPith=6; 
+## Radius=30.956; CalcRadius=Yes; Written=2025-04-03 15:52:33; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60M5T02C.pos  3 - 41  #C#PithCoordinates=26.363,6.170; DistanceToPith=0.4; YearsToPith=1; 
+## Radius=23.887; CalcRadius=Yes; Written=2025-05-21 16:01:40; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60M5T03C.pos  3 - 43  #C#PithCoordinates=41.603,5.662; DistanceToPith=0.6; YearsToPith=1; 
+## Radius=35.116; CalcRadius=Yes; Written=2025-05-21 16:05:41; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60M5T06C.pos  3 - 40  #C#PithCoordinates=35.380,5.270; DistanceToPith=1.7; YearsToPith=3; 
+## Radius=29.633; CalcRadius=Yes; Written=2025-05-21 16:33:19; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60M5T14C.pos  3 - 32  #C#PithCoordinates=26.395,18.351; DistanceToPith=7.9; YearsToPith=11; 
+## Radius=26.839; CalcRadius=Yes; Written=2025-05-22 13:40:54; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\60M5T17C.pos  3 - 40  #C#PithCoordinates=29.348,14.330; DistanceToPith=1.7; YearsToPith=2; 
+## Radius=25.919; CalcRadius=Yes; Written=2025-05-22 14:08:51; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M6_MID_POTR_PIGL\C_PIGL\60M6T02C.pos  3 - 86  #C#PithCoordinates=72.358,1.556; DistanceToPith=7.4; YearsToPith=8; 
+## Radius=63.606; CalcRadius=Yes; Written=2025-04-03 15:03:14; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M6_MID_POTR_PIGL\C_PIGL\60M6T04C.pos  3 - 39  #C#Written=2025-04-03 15:05:42; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M6_MID_POTR_PIGL\C_PIGL\60M6T05C.pos  3 - 41  #C#PithCoordinates=24.141,15.536; DistanceToPith=1.5; YearsToPith=2; 
+## Radius=19.336; CalcRadius=Yes; Written=2025-04-03 15:07:16; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M6_MID_POTR_PIGL\C_PIGL\60M6T06C.pos  3 - 40  #C#PithCoordinates=35.941,4.191; DistanceToPith=3.4; YearsToPith=4; 
+## Radius=32.099; CalcRadius=Yes; Written=2025-04-03 15:15:12; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M6_MID_POTR_PIGL\C_PIGL\60M6T08C.pos  3 - 42  #C#PithCoordinates=38.396,5.778; DistanceToPith=2.8; YearsToPith=3; 
+## Radius=29.834; CalcRadius=Yes; Written=2025-04-03 15:18:04; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M6_MID_POTR_PIGL\C_PIGL\60M6T10C.pos  3 - 40  #C#Written=2025-04-03 15:30:54; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M7_DRY_POTR_PIGL\C_PIGL\60M7T01C.pos  3 - 29  #C#Written=2025-04-03 14:52:05; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M7_DRY_POTR_PIGL\C_PIGL\60M7T03C.pos  3 - 35  #C#Written=2025-04-03 14:55:10; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M7_DRY_POTR_PIGL\C_PIGL\60M7T04C.pos  3 - 28  #C#Written=2025-04-03 14:53:22; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M7_DRY_POTR_PIGL\C_PIGL\60M7T09C.pos  3 - 26  #C#Written=2025-04-03 14:57:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M7_DRY_POTR_PIGL\C_PIGL\60M7T12C.pos  3 - 30  #C#PithCoordinates=21.230,5.567; DistanceToPith=1.4; YearsToPith=5; 
+## Radius=17.293; CalcRadius=Yes; Written=2025-04-03 14:58:31; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M8_MID_POTR_PIGL\C_PIGL\60M8T08C.pos  3 - 25  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-22 17:01:21; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M8_MID_POTR_PIGL\C_PIGL\60M8T09C.pos  3 - 24  #C#PithCoordinates=31.792,12.933; DistanceToPith=1.2; YearsToPith=1; 
+## Radius=27.443; CalcRadius=Yes; Written=2025-05-22 17:03:29; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M8_MID_POTR_PIGL\C_PIGL\60M8T12C.pos  3 - 19  #C#PithCoordinates=39.613,13.240; DistanceToPith=1.9; YearsToPith=1; 
+## Radius=32.734; CalcRadius=Yes; Written=2025-05-22 17:57:25; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M8_MID_POTR_PIGL\C_PIGL\60M8T14C.pos  3 - 24  #C#PithCoordinates=30.872,6.138; DistanceToPith=1.5; YearsToPith=2; 
+## Radius=25.950; CalcRadius=Yes; Written=2025-05-22 18:13:34; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60M8_MID_POTR_PIGL\C_PIGL\60M8T15C.pos  3 - 41  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-05-22 18:17:43; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U1_MID_PIGL\C_PIGL\60U1T02C.pos  3 - 33  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-21 15:10:19; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\60U1_MID_PIGL\C_PIGL\60U1T03C.pos  3 - 33  #C#Written=2025-04-03 14:40:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U1_MID_PIGL\C_PIGL\60U1T08C.pos  3 - 42  #C#PithCoordinates=64.167,7.228; DistanceToPith=0.5; YearsToPith=1; 
+## Radius=44.080; CalcRadius=Yes; Written=2025-04-03 14:47:55; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U1_MID_PIGL\C_PIGL\60U1T09C.pos  3 - 37  #C#PithCoordinates=58.166,5.842; DistanceToPith=4.1; YearsToPith=6; 
+## Radius=47.741; CalcRadius=Yes; Written=2025-04-03 14:49:31; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U4_WET_PIGL_ALL_MEASURED\C_PIGL\60U4T01C.pos  3 - 38  #C#PithCoordinates=49.001,1.535; DistanceToPith=4.8; YearsToPith=5; 
+## Radius=44.228; CalcRadius=Yes; Written=2025-05-22 21:10:24; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U4_WET_PIGL_ALL_MEASURED\C_PIGL\60U4T02C.pos  3 - 40  #C#PithCoordinates=32.777,6.286; DistanceToPith=0.8; YearsToPith=1; 
+## Radius=27.496; CalcRadius=Yes; Written=2025-05-22 21:23:34; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U4_WET_PIGL_ALL_MEASURED\C_PIGL\60U4T06C.pos  3 - 26  #C#PithCoordinates=33.115,1.566; DistanceToPith=5.8; YearsToPith=4; 
+## Radius=29.665; CalcRadius=Yes; Written=2025-05-22 21:52:43; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U4_WET_PIGL_ALL_MEASURED\C_PIGL\60U4T07C.pos  3 - 36  #C#PithCoordinates=22.775,16.034; DistanceToPith=3.0; YearsToPith=6; 
+## Radius=22.373; CalcRadius=Yes; Written=2025-05-22 22:19:46; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U4_WET_PIGL_ALL_MEASURED\C_PIGL\60U4T09C.pos  3 - 34  #C#PithCoordinates=25.326,13.684; DistanceToPith=1.5; YearsToPith=2; 
+## Radius=19.547; CalcRadius=Yes; Written=2025-05-22 22:38:44; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\60U1_MID_PIGL\C_PIGL\60UIT07C.pos  3 - 22  #C#PithCoordinates=55.626,-2.085; DistanceToPith=13.1; YearsToPith=5; 
+## Radius=50.546; CalcRadius=Yes; Written=2025-04-03 14:46:04; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F09_PIGL_POTR_MEASURED\C_PIGL\70F09T11C.pos  2 - 35  #C#PithCoordinates=31.178,5.757; DistanceToPith=0.6; YearsToPith=1; 
+## Radius=26.511; CalcRadius=Yes; Written=2026-05-13 12:40:14; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F09_PIGL_POTR_MEASURED\C_PIGL\70F09T13C.pos  2 - 30  #C#PithCoordinates=32.194,14.721; DistanceToPith=3.2; YearsToPith=3; 
+## Radius=28.247; CalcRadius=Yes; Written=2026-05-13 12:42:19; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F09_PIGL_POTR_MEASURED\C_PIGL\70F09T14C.pos  2 - 42  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-13 12:44:53; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F09_PIGL_POTR_MEASURED\C_PIGL\70F09T15C.pos  2 - 33  #C#PithCoordinates=35.338,15.473; DistanceToPith=2.5; YearsToPith=2; 
+## Radius=30.946; CalcRadius=Yes; Written=2026-05-13 12:47:46; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F09_PIGL_POTR_MEASURED\C_PIGL\70F09T17C.pos  2 - 39  #C#PithCoordinates=33.930,4.022; DistanceToPith=3.3; YearsToPith=3; 
+## Radius=29.062; CalcRadius=Yes; Written=2026-05-13 12:49:31; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F09_PIGL_POTR_MEASURED\C_PIGL\70F09T21C.pos  3 - 158  #C#PithCoordinates=143.394,24.395; DistanceToPith=13.1; YearsToPith=6; 
+## Radius=138.568; CalcRadius=Yes; Written=2026-05-13 12:55:57; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F10_PIGL_POTR_MEASURED\C_PIGL\70F10T11C.pos  2 - 39  #C#PithCoordinates=42.492,6.689; DistanceToPith=1.5; YearsToPith=1; 
+## Radius=36.248; CalcRadius=Yes; Written=2026-06-11 13:09:58; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F10_PIGL_POTR_MEASURED\C_PIGL\70F10T12C.pos  2 - 39  #C#PithCoordinates=60.981,17.854; DistanceToPith=3.4; YearsToPith=2; 
+## Radius=55.097; CalcRadius=Yes; Written=2026-06-11 13:12:08; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F10_PIGL_POTR_MEASURED\C_PIGL\70F10T13C.pos  2 - 34  #C#PithCoordinates=55.552,16.669; DistanceToPith=1.5; YearsToPith=1; 
+## Radius=47.964; CalcRadius=Yes; Written=2026-06-11 13:16:06; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F10_PIGL_POTR_MEASURED\C_PIGL\70F10T19C.pos  2 - 28  #C#PithCoordinates=34.862,8.795; DistanceToPith=0.6; YearsToPith=1; 
+## Radius=23.823; CalcRadius=Yes; Written=2026-06-11 13:20:16; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F10_PIGL_POTR_MEASURED\C_PIGL\70F10T20C.pos  2 - 33  #C#PithCoordinates=53.202,6.720; DistanceToPith=3.4; YearsToPith=2; 
+## Radius=45.678; CalcRadius=Yes; Written=2026-06-11 13:20:43; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F11_PIGL_POTR_MEASURED\C_PIGL\70F11T11C.pos  2 - 42  #C#PithCoordinates=61.246,14.319; DistanceToPith=3.4; YearsToPith=1; 
+## Radius=54.610; CalcRadius=Yes; Written=2026-06-15 09:56:59; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F11_PIGL_POTR_MEASURED\C_PIGL\70F11T12C.pos  2 - 42  #C#PithCoordinates=116.978,13.938; DistanceToPith=2.6; YearsToPith=1; 
+## Radius=108.659; CalcRadius=Yes; Written=2026-06-15 09:58:16; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F11_PIGL_POTR_MEASURED\C_PIGL\70F11T13C.pos  2 - 37  #C#PithCoordinates=71.924,16.277; DistanceToPith=4.2; YearsToPith=1; 
+## Radius=64.495; CalcRadius=Yes; Written=2026-06-15 09:59:17; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F11_PIGL_POTR_MEASURED\C_PIGL\70F11T14C.pos  2 - 42  #C#PithCoordinates=72.782,5.821; DistanceToPith=1.0; YearsToPith=1; 
+## Radius=65.955; CalcRadius=Yes; Written=2026-06-15 10:01:48; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F11_PIGL_POTR_MEASURED\C_PIGL\70F11T15C.pos  2 - 43  #C#Written=2026-06-15 10:02:54; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F15_PIGL_POTR_MEASURED\C_PIGL\70F15T11C.pos  3 - 34  #C#PithCoordinates=73.755,-0.116; DistanceToPith=7.4; YearsToPith=3; 
+## Radius=66.252; CalcRadius=Yes; Written=2026-04-09 10:35:13; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F15_PIGL_POTR_MEASURED\C_PIGL\70F15T12C.pos  2 - 40  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-04-09 10:37:30; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F15_PIGL_POTR_MEASURED\C_PIGL\70F15T13C.pos  2 - 31  #C#PithCoordinates=56.600,2.561; DistanceToPith=5.1; YearsToPith=3; 
+## Radius=50.038; CalcRadius=Yes; Written=2026-04-09 10:39:49; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F15_PIGL_POTR_MEASURED\C_PIGL\70F15T14C.pos  2 - 33  #C#PithCoordinates=42.429,2.551; DistanceToPith=3.2; YearsToPith=2; 
+## Radius=36.957; CalcRadius=Yes; Written=2026-04-09 10:42:05; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F15_PIGL_POTR_MEASURED\C_PIGL\70F15T15C.pos  2 - 33  #C#PithCoordinates=40.301,3.418; DistanceToPith=2.7; YearsToPith=3; 
+## Radius=35.528; CalcRadius=Yes; Written=2026-04-09 10:44:17; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F16_PIGL_POTR_MEASURED\C_PIGL\70F16T11C.pos  2 - 40  #C#PithCoordinates=97.864,18.172; DistanceToPith=6.2; YearsToPith=2; 
+## Radius=90.519; CalcRadius=Yes; Written=2026-05-25 11:30:48; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F16_PIGL_POTR_MEASURED\C_PIGL\70F16T14C.pos  2 - 33  #C#PithCoordinates=36.481,1.080; DistanceToPith=6.7; YearsToPith=4; 
+## Radius=34.279; CalcRadius=Yes; Written=2026-05-25 11:31:18; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F16_PIGL_POTR_MEASURED\C_PIGL\70F16T15C.pos  2 - 44  #C#Written=2026-05-25 11:31:41; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F16_PIGL_POTR_MEASURED\C_PIGL\70F16T17C.pos  5 - 30  #C#PithCoordinates=25.199,14.288; DistanceToPith=2.0; YearsToPith=1; 
+## Radius=21.791; CalcRadius=Yes; Written=2026-03-24 11:48:08; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F16_PIGL_POTR_MEASURED\C_PIGL\70F16T18C.pos  2 - 39  #C#PithCoordinates=35.888,2.127; DistanceToPith=4.8; YearsToPith=2; 
+## Radius=33.528; CalcRadius=Yes; Written=2026-05-25 11:32:19; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F16_PIGL_POTR_MEASURED\C_PIGL\70F16T19C.pos  2 - 34  #C#PithCoordinates=32.893,3.545; DistanceToPith=3.3; YearsToPith=2; 
+## Radius=30.353; CalcRadius=Yes; Written=2026-05-25 11:32:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F24_PIGL_MEASURED\C_PIGL\70F24T01C.pos  2 - 44  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-15 15:08:06; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F24_PIGL_MEASURED\C_PIGL\70F24T02C.pos  2 - 34  #C#PithCoordinates=115.633,26.024; DistanceToPith=17.3; YearsToPith=2; 
+## Radius=107.950; CalcRadius=Yes; Written=2026-06-15 15:12:20; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F24_PIGL_MEASURED\C_PIGL\70F24T03C.pos  2 - 32  #C#PithCoordinates=83.873,1.789; DistanceToPith=10.3; YearsToPith=2; 
+## Radius=80.243; CalcRadius=Yes; Written=2026-06-15 15:16:52; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F24_PIGL_MEASURED\C_PIGL\70F24T04C.pos  2 - 32  #C#PithCoordinates=90.625,-1.016; DistanceToPith=11.8; YearsToPith=2; 
+## Radius=82.180; CalcRadius=Yes; Written=2026-06-15 15:19:19; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F24_PIGL_MEASURED\C_PIGL\70F24T05C.pos  2 - 31  #C#PithCoordinates=73.935,18.235; DistanceToPith=5.8; YearsToPith=2; 
+## Radius=67.998; CalcRadius=Yes; Written=2026-06-15 15:21:27; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F26_PIGL_MEASURED\C_PIGL\70F26T01C.pos  2 - 39  #C#PithCoordinates=37.941,13.261; DistanceToPith=2.1; YearsToPith=2; 
+## Radius=32.554; CalcRadius=Yes; Written=2026-06-16 14:09:26; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F26_PIGL_MEASURED\C_PIGL\70F26T02C.pos  2 - 39  #C#PithCoordinates=38.968,2.762; DistanceToPith=3.5; YearsToPith=2; 
+## Radius=34.936; CalcRadius=Yes; Written=2026-06-16 14:11:48; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F26_PIGL_MEASURED\C_PIGL\70F26T03C.pos  2 - 38  #C#PithCoordinates=30.861,14.668; DistanceToPith=2.6; YearsToPith=2; 
+## Radius=26.903; CalcRadius=Yes; Written=2026-06-16 14:13:33; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F26_PIGL_MEASURED\C_PIGL\70F26T04C.pos  2 - 28  #C#PithCoordinates=33.951,15.399; DistanceToPith=4.6; YearsToPith=3; 
+## Radius=29.274; CalcRadius=Yes; Written=2026-06-16 14:15:09; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F26_PIGL_MEASURED\C_PIGL\70F26T08C.pos  2 - 38  #C#PithCoordinates=42.767,14.076; DistanceToPith=2.3; YearsToPith=2; 
+## Radius=36.682; CalcRadius=Yes; Written=2026-06-16 14:17:10; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F27_PIGL_POTR_MEASURED\C_PIGL\70F27T01C.pos  2 - 18  #C#PithCoordinates=39.021,1.683; DistanceToPith=6.0; YearsToPith=3; 
+## Radius=33.962; CalcRadius=Yes; Written=2026-04-30 16:07:59; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F27_PIGL_POTR_MEASURED\C_PIGL\70F27T02C.pos  2 - 27  #C#PithCoordinates=33.676,6.212; DistanceToPith=0.7; YearsToPith=1; 
+## Radius=29.379; CalcRadius=Yes; Written=2026-04-30 16:09:59; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F27_PIGL_POTR_MEASURED\C_PIGL\70F27T05C.pos  2 - 28  #C#PithCoordinates=22.140,13.769; DistanceToPith=1.5; YearsToPith=1; 
+## Radius=17.092; CalcRadius=Yes; Written=2026-04-30 16:12:40; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F27_PIGL_POTR_MEASURED\C_PIGL\70F27T06C.pos  2 - 22  #C#PithCoordinates=48.228,1.524; DistanceToPith=5.9; YearsToPith=3; 
+## Radius=42.291; CalcRadius=Yes; Written=2026-04-30 16:14:32; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F27_PIGL_POTR_MEASURED\C_PIGL\70F27T09C.pos  2 - 19  #C#PithCoordinates=36.841,-2.498; DistanceToPith=10.2; YearsToPith=5; 
+## Radius=35.063; CalcRadius=Yes; Written=2026-04-30 16:16:02; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F27_PIGL_POTR_MEASURED\C_PIGL\70F27T11C.pos  2 - 27  #C#PithCoordinates=35.581,5.842; DistanceToPith=1.4; YearsToPith=1; 
+## Radius=30.078; CalcRadius=Yes; Written=2026-04-30 16:17:29; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F28_PIMA_PIGL_MEASURED\C_PIGL\70F28T10C.pos  2 - 28  #C#PithCoordinates=28.818,6.943; DistanceToPith=1.4; YearsToPith=1; 
+## Radius=22.638; CalcRadius=Yes; Written=2026-06-16 15:38:30; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F29_PIGL_MEASURED\C_PIGL\70F29T01C.pos  2 - 34  #C#PithCoordinates=40.979,7.768; DistanceToPith=0.4; YearsToPith=1; 
+## Radius=35.518; CalcRadius=Yes; Written=2026-06-17 13:10:46; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F29_PIGL_MEASURED\C_PIGL\70F29T02C.pos  2 - 26  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-17 13:12:35; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F29_PIGL_MEASURED\C_PIGL\70F29T03C.pos  2 - 25  #C#PithCoordinates=33.708,3.577; DistanceToPith=4.3; YearsToPith=3; 
+## Radius=30.205; CalcRadius=Yes; Written=2026-06-17 13:13:38; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F29_PIGL_MEASURED\C_PIGL\70F29T04C.pos  2 - 21  #C#PithCoordinates=38.312,16.711; DistanceToPith=4.4; YearsToPith=3; 
+## Radius=34.375; CalcRadius=Yes; Written=2026-06-17 13:14:54; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F30_PIGL_MEASURED\C_PIGL\70F30T01C.pos  2 - 23  #C#PithCoordinates=32.089,4.530; DistanceToPith=3.1; YearsToPith=2; 
+## Radius=24.056; CalcRadius=Yes; Written=2026-06-17 13:42:39; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F30_PIGL_MEASURED\C_PIGL\70F30T02C.pos  3 - 38  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-17 13:46:47; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F30_PIGL_MEASURED\C_PIGL\70F30T03C.pos  2 - 40  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-17 13:48:07; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F30_PIGL_MEASURED\C_PIGL\70F30T05C.pos  2 - 39  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-17 13:49:24; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F30_PIGL_MEASURED\C_PIGL\70F30T06C.pos  2 - 30  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-17 13:50:10; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F30_PIGL_MEASURED\C_PIGL\70F30T09C.pos  2 - 46  #C#Written=2026-06-17 13:54:42; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F31_PIGL_MEASURED\C_PIGL\70F31T01C.pos  2 - 45  #C#PithCoordinates=49.509,2.963; DistanceToPith=6.0; YearsToPith=3; 
+## Radius=45.900; CalcRadius=Yes; Written=2026-06-17 15:04:57; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F31_PIGL_MEASURED\C_PIGL\70F31T02C.pos  2 - 43  #C#PithCoordinates=60.103,15.759; DistanceToPith=3.8; YearsToPith=2; 
+## Radius=55.287; CalcRadius=Yes; Written=2026-06-17 15:07:11; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F31_PIGL_MEASURED\C_PIGL\70F31T03C.pos  2 - 40  #C#PithCoordinates=38.153,15.526; DistanceToPith=1.3; YearsToPith=2; 
+## Radius=32.544; CalcRadius=Yes; Written=2026-06-17 15:09:24; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F31_PIGL_MEASURED\C_PIGL\70F31T05C.pos  2 - 45  #C#PithCoordinates=50.493,18.108; DistanceToPith=4.2; YearsToPith=3; 
+## Radius=45.318; CalcRadius=Yes; Written=2026-06-17 15:11:52; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F31_PIGL_MEASURED\C_PIGL\70F31T06C.pos  2 - 47  #C#PithCoordinates=35.084,7.726; DistanceToPith=1.9; YearsToPith=1; 
+## Radius=33.084; CalcRadius=Yes; Written=2026-06-17 15:13:54; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F32_PIMA_PIGL_POTR_MEASURED\C_PIGL\70F32T06C.pos  2 - 56  #C#PithCoordinates=71.279,14.563; DistanceToPith=1.0; YearsToPith=1; 
+## Radius=65.913; CalcRadius=Yes; Written=2026-05-27 12:21:57; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F32_PIMA_PIGL_POTR_MEASURED\C_PIGL\70F32T09C.pos  2 - 60  #C#PithCoordinates=58.706,5.334; DistanceToPith=1.3; YearsToPith=1; 
+## Radius=53.139; CalcRadius=Yes; Written=2026-05-27 12:22:19; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F32_PIMA_PIGL_POTR_MEASURED\C_PIGL\70F32T10C.pos  3 - 56  #C#PithCoordinates=64.019,4.868; DistanceToPith=1.7; YearsToPith=6; 
+## Radius=60.971; CalcRadius=Yes; Written=2026-05-27 12:25:01; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F32_PIMA_PIGL_POTR_MEASURED\C_PIGL\70F32T11C.pos  2 - 55  #C#PithCoordinates=45.646,6.329; DistanceToPith=0.6; YearsToPith=1; 
+## Radius=41.836; CalcRadius=Yes; Written=2026-05-27 12:28:32; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F33_PIGL_MEASURED\C_PIGL\70F33T01C.pos  2 - 40  #C#PithCoordinates=48.525,6.308; DistanceToPith=2.4; YearsToPith=1; 
+## Radius=43.804; CalcRadius=Yes; Written=2026-06-17 15:40:41; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F33_PIGL_MEASURED\C_PIGL\70F33T02C.pos  2 - 41  #C#PithCoordinates=61.754,6.043; DistanceToPith=2.7; YearsToPith=1; 
+## Radius=55.954; CalcRadius=Yes; Written=2026-06-17 15:41:18; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F33_PIGL_MEASURED\C_PIGL\70F33T04C.pos  2 - 37  #C#PithCoordinates=47.763,3.514; DistanceToPith=5.2; YearsToPith=4; 
+## Radius=42.672; CalcRadius=Yes; Written=2026-06-17 15:41:50; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F33_PIGL_MEASURED\C_PIGL\70F33T06C.pos  2 - 36  #C#PithCoordinates=78.645,1.577; DistanceToPith=7.0; YearsToPith=2; 
+## Radius=72.856; CalcRadius=Yes; Written=2026-06-17 15:42:17; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F33_PIGL_MEASURED\C_PIGL\70F33T08C.pos  2 - 30  #C#PithCoordinates=86.921,1.196; DistanceToPith=7.0; YearsToPith=2; 
+## Radius=80.740; CalcRadius=Yes; Written=2026-06-17 15:42:44; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F34_PIGL_POTR_MEASURED\C_PIGL\70F34T11C.pos  2 - 44  #C#PithCoordinates=39.455,12.181; DistanceToPith=0.9; YearsToPith=1; 
+## Radius=31.295; CalcRadius=Yes; Written=2026-05-01 13:33:39; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F34_PIGL_POTR_MEASURED\C_PIGL\70F34T13C.pos  2 - 45  #C#PithCoordinates=42.111,6.742; DistanceToPith=0.5; YearsToPith=1; 
+## Radius=38.100; CalcRadius=Yes; Written=2026-05-01 13:34:04; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F34_PIGL_POTR_MEASURED\C_PIGL\70F34T15C.pos  2 - 42  #C#PithCoordinates=43.053,20.267; DistanceToPith=2.5; YearsToPith=1; 
+## Radius=40.079; CalcRadius=Yes; Written=2026-03-18 10:31:16; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F34_PIGL_POTR_MEASURED\C_PIGL\70F34T16C.pos  2 - 46  #C#PithCoordinates=40.672,5.154; DistanceToPith=2.9; YearsToPith=2; 
+## Radius=35.285; CalcRadius=Yes; Written=2026-05-01 13:34:47; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F34_PIGL_POTR_MEASURED\C_PIGL\70F34T18C.pos  2 - 38  #C#PithCoordinates=73.766,-2.752; DistanceToPith=13.9; YearsToPith=4; 
+## Radius=69.543; CalcRadius=Yes; Written=2026-05-01 13:35:14; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T01C.pos  2 - 38  #C#PithCoordinates=46.429,19.325; DistanceToPith=3.4; YearsToPith=2; 
+## Radius=42.714; CalcRadius=Yes; Written=2026-06-17 16:09:24; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T03C.pos  2 - 38  #C#PithCoordinates=35.518,1.439; DistanceToPith=5.0; YearsToPith=5; 
+## Radius=31.528; CalcRadius=Yes; Written=2026-06-17 16:09:42; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T04C.pos  2 - 45  #C#Written=2026-06-17 16:09:55; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T09C.pos  2 - 41  #C#PithCoordinates=26.860,17.177; DistanceToPith=4.2; YearsToPith=3; 
+## Radius=27.326; CalcRadius=Yes; Written=2026-06-17 16:10:20; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T10C.pos  2 - 44  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-17 16:10:57; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T18C.pos  2 - 144  #C#Written=2026-06-17 16:11:24; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T19C.pos  2 - 76  #C#RTP seems large
+## PithCoordinates=77.639,-3.302; DistanceToPith=12.0; YearsToPith=37; 
+## Radius=72.464; CalcRadius=Yes; Written=2026-06-17 16:11:50; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F36_PIGL_MEASURED\C_PIGL\70F36T20C.pos  2 - 109  #C#PithCoordinates=101.208,-6.996; DistanceToPith=15.5; YearsToPith=14; 
+## Radius=99.303; CalcRadius=Yes; Written=2026-06-17 16:12:42; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F38_PIMA_PIGL_MEASURED\C_PIGL\70F38T01C.pos  2 - 33  #C#PithCoordinates=33.454,-0.169; DistanceToPith=6.6; YearsToPith=5; 
+## Radius=30.501; CalcRadius=Yes; Written=2026-06-20 17:42:53; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F38_PIMA_PIGL_MEASURED\C_PIGL\70F38T05C.pos  2 - 44  #C#PithCoordinates=39.275,14.658; DistanceToPith=1.8; YearsToPith=1; 
+## Radius=34.152; CalcRadius=Yes; Written=2026-06-20 17:46:05; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F38_PIMA_PIGL_MEASURED\C_PIGL\70F38T06C.pos  2 - 42  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-20 17:49:13; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F38_PIMA_PIGL_MEASURED\C_PIGL\70F38T07C.pos  2 - 37  #C#PithCoordinates=30.067,12.658; DistanceToPith=1.8; YearsToPith=2; 
+## Radius=27.432; CalcRadius=Yes; Written=2026-03-31 09:48:41; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\70F38_PIMA_PIGL_MEASURED\C_PIGL\70F38T10C.pos  2 - 42  #C#PithCoordinates=41.434,6.890; DistanceToPith=1.5; YearsToPith=1; 
+## Radius=37.052; CalcRadius=Yes; Written=2026-06-20 17:51:30; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F39_PIGL_POTR_PIMA\C_PIGL\70F39T21C.pos  2 - 29  #C#PithCoordinates=38.671,4.964; DistanceToPith=1.9; YearsToPith=2; 
+## Radius=34.851; CalcRadius=Yes; Written=2026-06-20 18:37:35; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F39_PIGL_POTR_PIMA\C_PIGL\70F39T22C.pos  2 - 42  #C#PithCoordinates=35.507,14.817; DistanceToPith=0.6; YearsToPith=1; 
+## Radius=31.930; CalcRadius=Yes; Written=2026-06-20 18:39:06; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F39_PIGL_POTR_PIMA\C_PIGL\70F39T24C.pos  2 - 25  #C#PithCoordinates=33.242,0.127; DistanceToPith=7.8; YearsToPith=5; 
+## Radius=30.247; CalcRadius=Yes; Written=2026-06-20 18:40:45; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F39_PIGL_POTR_PIMA\C_PIGL\70F39T26C.pos  2 - 34  #C#PithCoordinates=28.321,14.997; DistanceToPith=2.1; YearsToPith=1; 
+## Radius=23.474; CalcRadius=Yes; Written=2026-06-20 18:41:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F39_PIGL_POTR_PIMA\C_PIGL\70F39T28C.pos  2 - 33  #C#PithCoordinates=28.342,5.355; DistanceToPith=0.4; YearsToPith=1; 
+## Radius=24.193; CalcRadius=Yes; Written=2026-06-20 18:42:05; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\70F39_PIGL_POTR_PIMA\C_PIGL\70F39T29C.pos  2 - 33  #C#PithCoordinates=32.332,13.727; DistanceToPith=2.0; YearsToPith=2; 
+## Radius=27.464; CalcRadius=Yes; Written=2026-06-20 18:42:32; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F06_PIGL_POTR_MEASURED\C_PIGL\80F06T08C.pos  2 - 25  #C#Written=2026-06-04 11:58:52; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F06_PIGL_POTR_MEASURED\C_PIGL\80F06T12C.pos  2 - 18  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-04 11:59:28; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F06_PIGL_POTR_MEASURED\C_PIGL\80F06T13C.pos  2 - 28  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-04 12:00:25; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F06_PIGL_POTR_MEASURED\C_PIGL\80F06T14C.pos  2 - 30  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-04 12:01:36; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F06_PIGL_POTR_MEASURED\C_PIGL\80F06T15C.pos  2 - 24  #C#PithCoordinates=22.130,6.498; DistanceToPith=0.8; YearsToPith=1; 
+## Radius=17.896; CalcRadius=Yes; Written=2026-06-04 12:03:01; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F08_POTR_PIGL_MEASURED\C_PIGL\80F08T04C.pos  2 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-23 13:10:22; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F08_POTR_PIGL_MEASURED\C_PIGL\80F08T07C.pos  2 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-23 13:15:28; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F08_POTR_PIGL_MEASURED\C_PIGL\80F08T10C.pos  2 - 21  #C#PithCoordinates=35.878,3.736; DistanceToPith=2.9; YearsToPith=2; 
+## Radius=32.343; CalcRadius=Yes; Written=2026-06-23 13:16:48; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F08_POTR_PIGL_MEASURED\C_PIGL\80F08T14C.pos  2 - 34  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-23 17:13:39; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F08_POTR_PIGL_MEASURED\C_PIGL\80F08T15C.pos  2 - 36  #C#PithCoordinates=71.469,5.577; DistanceToPith=3.2; YearsToPith=1; 
+## Radius=66.696; CalcRadius=Yes; Written=2026-06-23 13:19:05; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F09_PIMA_POBA_PIGL_MEASURED\C_PIGL\80F09T09C.pos  2 - 23  #C#PithCoordinates=28.543,3.937; DistanceToPith=3.1; YearsToPith=2; 
+## Radius=26.120; CalcRadius=Yes; Written=2026-06-23 17:44:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F11_PIGL_POTR\C_PIGL\80F11T03C.pos  2 - 25  #C#PithCoordinates=28.332,4.805; DistanceToPith=3.9; YearsToPith=3; 
+## Radius=24.670; CalcRadius=Yes; Written=2026-06-25 10:36:19; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F11_PIGL_POTR\C_PIGL\80F11T08C.pos  2 - 30  #C#PithCoordinates=57.224,0.476; DistanceToPith=6.2; YearsToPith=2; 
+## Radius=50.356; CalcRadius=Yes; Written=2026-06-25 10:39:47; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F11_PIGL_POTR\C_PIGL\80F11T10C.pos  2 - 36  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-25 10:41:55; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F11_PIGL_POTR\C_PIGL\80F11T12C.pos  2 - 24  #C#PithCoordinates=28.099,3.863; DistanceToPith=4.1; YearsToPith=3; 
+## Radius=23.199; CalcRadius=Yes; Written=2026-06-25 10:44:25; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F11_PIGL_POTR\C_PIGL\80F11T18C.pos  2 - 29  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-25 10:46:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F12_PIGL_POTR_MEASURED\C_PIGL\80F12T03C.pos  2 - 38  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-26 09:42:29; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F12_PIGL_POTR_MEASURED\C_PIGL\80F12T07C.pos  2 - 26  #C#PithCoordinates=67.151,17.103; DistanceToPith=7.5; YearsToPith=2; 
+## Radius=61.669; CalcRadius=Yes; Written=2026-06-26 09:44:32; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F12_PIGL_POTR_MEASURED\C_PIGL\80F12T08C.pos  2 - 34  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-26 09:45:16; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F12_PIGL_POTR_MEASURED\C_PIGL\80F12T11C.pos  2 - 20  #C#PithCoordinates=54.853,-4.583; DistanceToPith=12.1; YearsToPith=4; 
+## Radius=51.901; CalcRadius=Yes; Written=2026-06-26 09:45:53; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F12_PIGL_POTR_MEASURED\C_PIGL\80F12T13C.pos  2 - 24  #C#PithCoordinates=64.019,18.172; DistanceToPith=7.0; YearsToPith=2; 
+## Radius=59.679; CalcRadius=Yes; Written=2026-06-26 09:58:49; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F14_PIGL_POTR_MEASURED\C_PIGL\80F14T06C.pos  2 - 28  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-02 16:00:35; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F14_PIGL_POTR_MEASURED\C_PIGL\80F14T09C.pos  2 - 30  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-02 16:02:11; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F14_PIGL_POTR_MEASURED\C_PIGL\80F14T10C.pos  2 - 28  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-02 16:03:34; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F14_PIGL_POTR_MEASURED\C_PIGL\80F14T11C.pos  2 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-06-02 16:05:04; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F14_PIGL_POTR_MEASURED\C_PIGL\80F14T12C.pos  2 - 16  #C#PithCoordinates=28.914,15.833; DistanceToPith=3.9; YearsToPith=1; 
+## Radius=25.421; CalcRadius=Yes; Written=2026-06-02 16:07:06; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F14_PIGL_POTR_MEASURED\C_PIGL\80F14T13C.pos  2 - 26  #C#PithCoordinates=45.699,5.863; DistanceToPith=1.0; YearsToPith=1; 
+## Radius=41.645; CalcRadius=Yes; Written=2026-06-02 16:09:37; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F15_PIGL_POTR_MEASURED\C_PIGL\80F15T01C.pos  2 - 30  #C#PithCoordinates=53.806,2.011; DistanceToPith=4.4; YearsToPith=2; 
+## Radius=49.731; CalcRadius=Yes; Written=2026-06-26 11:36:15; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F15_PIGL_POTR_MEASURED\C_PIGL\80F15T03C.pos  2 - 25  #C#PithCoordinates=37.285,3.852; DistanceToPith=2.5; YearsToPith=2; 
+## Radius=34.015; CalcRadius=Yes; Written=2026-06-26 11:37:49; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F15_PIGL_POTR_MEASURED\C_PIGL\80F15T07C.pos  2 - 21  #C#PithCoordinates=38.164,4.583; DistanceToPith=3.9; YearsToPith=2; 
+## Radius=33.338; CalcRadius=Yes; Written=2026-06-26 11:39:10; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F15_PIGL_POTR_MEASURED\C_PIGL\80F15T08C.pos  2 - 25  #C#PithCoordinates=49.414,4.498; DistanceToPith=3.8; YearsToPith=3; 
+## Radius=44.884; CalcRadius=Yes; Written=2026-06-26 11:41:20; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F32_PIGL_MEASURED\C_PIGL\80F32T06C.pos  2 - 27  #C#PithCoordinates=33.359,5.694; DistanceToPith=0.8; YearsToPith=1; 
+## Radius=29.263; CalcRadius=Yes; Written=2026-07-16 16:54:03; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F32_PIGL_MEASURED\C_PIGL\80F32T07C.pos  2 - 28  #C#PithCoordinates=39.846,12.266; DistanceToPith=0.9; YearsToPith=1; 
+## Radius=34.883; CalcRadius=Yes; Written=2026-07-16 16:54:41; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F32_PIGL_MEASURED\C_PIGL\80F32T08C.pos  2 - 20  #C#PithCoordinates=32.893,18.055; DistanceToPith=6.4; YearsToPith=2; 
+## Radius=28.078; CalcRadius=Yes; Written=2026-07-16 16:55:11; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F32_PIGL_MEASURED\C_PIGL\80F32T09C.pos  2 - 23  #C#PithCoordinates=41.307,0.995; DistanceToPith=6.0; YearsToPith=2; 
+## Radius=36.407; CalcRadius=Yes; Written=2026-07-16 16:55:49; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F32_PIGL_MEASURED\C_PIGL\80F32T10C.pos  2 - 30  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-16 16:56:20; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F33_POTR_PIGL_MEASURED\C_PIGL\80F33T12C.pos  2 - 29  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-26 19:30:46; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F33_POTR_PIGL_MEASURED\C_PIGL\80F33T13C.pos  2 - 26  #C#PithCoordinates=43.561,6.837; DistanceToPith=1.3; YearsToPith=1; 
+## Radius=37.465; CalcRadius=Yes; Written=2026-05-26 19:32:07; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F33_POTR_PIGL_MEASURED\C_PIGL\80F33T14C.pos  2 - 23  #C#PithCoordinates=26.511,7.313; DistanceToPith=0.7; YearsToPith=1; 
+## Radius=21.653; CalcRadius=Yes; Written=2026-05-26 19:33:32; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F33_POTR_PIGL_MEASURED\C_PIGL\80F33T18C.pos  2 - 26  #C#PithCoordinates=43.434,7.948; DistanceToPith=1.5; YearsToPith=1; 
+## Radius=38.460; CalcRadius=Yes; Written=2026-05-26 19:33:59; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F33_POTR_PIGL_MEASURED\C_PIGL\80F33T19C.pos  2 - 18  #C#PithCoordinates=51.816,16.055; DistanceToPith=3.9; YearsToPith=1; 
+## Radius=45.455; CalcRadius=Yes; Written=2026-05-26 19:35:38; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2025_WLU\80F34_POTR_PIGL_MEASURED\C_PIGL\80F34T21C.pos  2 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-16 17:25:20; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F34_POTR_PIGL_MEASURED\C_PIGL\80F34T25C.pos  2 - 26  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-16 17:32:00; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F34_POTR_PIGL_MEASURED\C_PIGL\80F34T27C.pos  2 - 27  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-16 17:33:54; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F34_POTR_PIGL_MEASURED\C_PIGL\80F34T28C.pos  2 - 29  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-16 17:35:38; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F34_POTR_PIGL_MEASURED\C_PIGL\80F34T29C.pos  2 - 27  #C#PithCoordinates=29.972,7.810; DistanceToPith=0.7; YearsToPith=1; 
+## Radius=26.892; CalcRadius=Yes; Written=2026-07-16 17:36:43; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F35_PIGL_POTR_MEASURED\C_PIGL\80F35T13C.pos  2 - 27  #C#Written=2026-05-06 16:56:48; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F35_PIGL_POTR_MEASURED\C_PIGL\80F35T14C.pos  2 - 31  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-06 16:57:28; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F35_PIGL_POTR_MEASURED\C_PIGL\80F35T15C.pos  2 - 31  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-06 16:58:07; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F35_PIGL_POTR_MEASURED\C_PIGL\80F35T16C.pos  2 - 31  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-06 16:58:35; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\80F35_PIGL_POTR_MEASURED\C_PIGL\80F35T17C.pos  2 - 29  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-05-06 16:59:09; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90B2_MID_BENE_PIGL_ALL_PRIORITY_MEASURED\C_PIGL\90B2T08C.pos  3 - 23  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-04 09:20:30; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90B2_MID_BENE_PIGL_ALL_PRIORITY_MEASURED\C_PIGL\90B2T09C.pos  3 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-04 09:21:43; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90B2_MID_BENE_PIGL_ALL_PRIORITY_MEASURED\C_PIGL\90B2T10C.pos  3 - 27  #C#Written=2025-04-03 14:35:47; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90B2_MID_BENE_PIGL_ALL_PRIORITY_MEASURED\C_PIGL\90B2T11C.pos  3 - 19  #C#PithCoordinates=17.886,14.647; DistanceToPith=0.8; YearsToPith=2; 
+## Radius=12.234; CalcRadius=Yes; Written=2025-04-03 14:36:03; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90B2_MID_BENE_PIGL_ALL_PRIORITY_MEASURED\C_PIGL\90B2T12C.pos  3 - 24  #C#PithCoordinates=37.909,13.123; DistanceToPith=1.1; YearsToPith=2; 
+## Radius=18.066; CalcRadius=Yes; Written=2025-04-03 14:36:28; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90B3_MID_BENE_PIGL\C_PIGL\90B3T02C.pos  3 - 28  #C#PithCoordinates=30.364,9.853; DistanceToPith=0.6; YearsToPith=1; 
+## Radius=19.526; CalcRadius=Yes; Written=2025-04-03 14:03:03; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90B3_MID_BENE_PIGL\C_PIGL\90B3T05C.pos  3 - 27  #C#Written=2025-04-03 14:03:37; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90B3_MID_BENE_PIGL\C_PIGL\90B3T12C.pos  3 - 25  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2025-04-01 12:58:36; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90B3_MID_BENE_PIGL\C_PIGL\90B3T14C.pos  3 - 23  #C#PithCoordinates=22.733,12.996; DistanceToPith=1.0; YearsToPith=1; 
+## Radius=17.452; CalcRadius=Yes; Written=2025-04-03 14:05:25; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90B3_MID_BENE_PIGL\C_PIGL\90B3T15C.pos  3 - 28  #C#Written=2025-04-03 14:06:45; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\90C7_PIGL_ALL_MEASURED\C_PIGL\90C7T02C.pos  3 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-04 09:50:50; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90C7_PIGL_ALL_MEASURED\C_PIGL\90C7T03C.pos  3 - 18  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-04 09:51:51; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90C7_PIGL_ALL_MEASURED\C_PIGL\90C7T04C.pos  3 - 20  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-04 09:52:56; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90C7_PIGL_ALL_MEASURED\C_PIGL\90C7T05C.pos  3 - 17  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-04 09:53:51; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90C7_PIGL_ALL_MEASURED\C_PIGL\90C7T08C.pos  3 - 19  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-04 09:54:45; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T01C.pos  2 - 19  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:02:32; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T02C.pos  2 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:03:07; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T03C.pos  2 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:03:30; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T04C.pos  2 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:03:59; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T05C.pos  2 - 16  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:04:23; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T06C.pos  2 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:04:53; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T07C.pos  2 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:05:22; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T08C.pos  2 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:05:53; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2025_WLU\00F08_PICO_PIMA_PIGL\C_PIGL\90F08T09C.pos  2 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-07-18 11:06:25; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90M4_PIGL_BENE_ALL_PRIORITY_MEASURED\C_PIGL\90M4T01C.pos  3 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 09:52:10; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90M4_PIGL_BENE_ALL_PRIORITY_MEASURED\C_PIGL\90M4T02C.pos  3 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 09:53:40; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90M4_PIGL_BENE_ALL_PRIORITY_MEASURED\C_PIGL\90M4T04C.pos  3 - 21  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 09:56:41; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90M4_PIGL_BENE_ALL_PRIORITY_MEASURED\C_PIGL\90M4T06C.pos  3 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 09:58:03; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90M4_PIGL_BENE_ALL_PRIORITY_MEASURED\C_PIGL\90M4T07C.pos  3 - 23  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 09:59:22; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T03C.pos  3 - 19  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 14:10:33; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T05C.pos  3 - 16  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 14:11:52; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T06C.pos  3 - 27  #C#PithCoordinates=47.593,13.938; DistanceToPith=1.9; YearsToPith=1; 
+## Radius=40.926; CalcRadius=Yes; Written=2026-02-27 13:17:42; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T06C (2).pos  3 - 14  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 14:12:46; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T07C.pos  3 - 45  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-02-13 12:29:36; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T07C (2).pos  3 - 18  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 14:14:01; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T13C.pos  3 - 15  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 14:15:10; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U1_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U1T14C.pos  3 - 22  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-05 14:45:43; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U2_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U2T01C.pos  3 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 09:36:23; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U2_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U2T05C.pos  3 - 18  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 09:38:02; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U2_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U2T07C.pos  3 - 23  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 09:39:52; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U2_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U2T10C.pos  3 - 24  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 09:41:39; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U3_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U3T11C.pos  3 - 15  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-02-13 14:53:09; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U3_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U3T12C.pos  3 - 15  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-02-13 14:48:47; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U3_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U3T13C.pos  3 - 12  #C#PithCoordinates=19.336,13.600; DistanceToPith=1.8; YearsToPith=1; 
+## Radius=13.917; CalcRadius=Yes; Written=2026-02-13 14:50:17; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U3_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U3T14C.pos  3 - 12  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 09:50:04; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U3_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U3T15C.pos  3 - 14  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 09:51:05; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U5T04C.pos  3 - 13  #C#PithCoordinates=27.199,13.875; DistanceToPith=1.5; YearsToPith=1; 
+## Radius=14.499; CalcRadius=Yes; Written=2026-02-27 13:28:30; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U5T06C.pos  3 - 14  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 11:00:23; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U5T08C.pos  3 - 19  #C#Written=2026-02-27 13:29:30; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U5T09C.pos  3 - 16  #C#Written=2026-02-27 13:30:13; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U5T11C.pos  3 - 16  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 11:02:34; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U5_MID_POTR_PIGL_ALL_MEASURED\C_PIGL\90U5T12C.pos  3 - 16  #C#Written=2026-02-27 13:30:39; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U6T02C.pos  3 - 10  #C#PithCoordinates=22.479,4.678; DistanceToPith=3.2; YearsToPith=1; 
+## Radius=13.642; CalcRadius=Yes; Written=2026-02-27 13:36:41; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U6T08C.pos  3 - 13  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 11:12:15; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U6T09C.pos  3 - 16  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-02-27 13:36:29; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U6T11C.pos  3 - 13  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-06 11:13:07; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\90U6_DRY_POTR_PIGL_ALL_MEASURED\C_PIGL\90U6T13C.pos  3 - 17  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-02-27 13:38:01; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\00C4_WET_PIGL_PIMA\C_PIGL\PIGL00C4.pos  3 - 80  #C#PithCoordinates=26.278,47.297; DistanceToPith=35.0; YearsToPith=9; 
+## Radius=195.908; CalcRadius=Yes; Written=2025-04-16 17:26:55; 
+## CooRecorder=9.8.4 May 22 2024; 
+## licensedTo=Raquel Alfaro Sanchez, raquel.alfarosanchez@nrcan-rncan.gc.ca; 
+## 
+YT_2024_WLU\XXB1_WET_POBA_POTR_PIGL--------IN-PROGRESS\C_PIGL\XXB1T04C.pos  3 - 57  #C#PithCoordinates=46.768,15.092; DistanceToPith=2.2; YearsToPith=3; 
+## Radius=38.915; CalcRadius=Yes; Written=2026-03-02 10:24:26; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXB1_WET_POBA_POTR_PIGL--------IN-PROGRESS\C_PIGL\XXB1T11C.pos  3 - 58  #C#PithCoordinates=33.475,6.212; DistanceToPith=1.2; YearsToPith=2; 
+## Radius=27.845; CalcRadius=Yes; Written=2026-02-17 15:23:50; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXB1_WET_POBA_POTR_PIGL--------IN-PROGRESS\C_PIGL\XXB1T12C.pos  3 - 52  #C#PithCoordinates=41.836,8.393; DistanceToPith=0.1; YearsToPith=1; 
+## Radius=34.417; CalcRadius=Yes; Written=2026-03-02 10:24:56; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC2_MID_PIGL_CROSSCHECK\C_PIGL\XXC2T01C.pos  3 - 82  #C#PithCoordinates=65.807,2.678; DistanceToPith=6.5; YearsToPith=2; 
+## CalcRadius=Yes; Radius=105.600; Written=2026-04-09 16:28:38; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC2_MID_PIGL_CROSSCHECK\C_PIGL\XXC2T02C.pos  3 - 84  #C#PithCoordinates=80.232,15.314; DistanceToPith=3.0; YearsToPith=1; 
+## Radius=73.448; CalcRadius=Yes; Written=2026-04-10 09:29:54; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC2_MID_PIGL_CROSSCHECK\C_PIGL\XXC2T03C.pos  3 - 88  #C#Written=2026-04-10 09:31:58; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC2_MID_PIGL_CROSSCHECK\C_PIGL\XXC2T06C.pos  3 - 72  #C#PithCoordinates=121.793,-2.741; DistanceToPith=11.8; YearsToPith=4; 
+## Radius=109.844; CalcRadius=Yes; Written=2026-04-10 09:37:35; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC2_MID_PIGL_CROSSCHECK\C_PIGL\XXC2T07C.pos  3 - 87  #C#Written=2026-04-10 09:39:23; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC3_MID_PIGL_CROSSCHECK\C_PIGL\XXC3T01C.pos  3 - 133  #C#not counted as a crack
+## PithCoordinates=139.065,17.769; DistanceToPith=3.1; YearsToPith=2; 
+## Radius=135.139; CalcRadius=Yes; Written=2026-04-10 13:03:18; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC3_MID_PIGL_CROSSCHECK\C_PIGL\XXC3T02C.pos  3 - 124  #C#PithCoordinates=111.453,3.154; DistanceToPith=4.9; YearsToPith=3; 
+## Radius=106.892; CalcRadius=Yes; Written=2026-04-10 15:09:07; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC3_MID_PIGL_CROSSCHECK\C_PIGL\XXC3T03C.pos  3 - 104  #C#Written=2026-04-10 15:17:02; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC3_MID_PIGL_CROSSCHECK\C_PIGL\XXC3T07C.pos  3 - 120  #C#PithCoordinates=108.014,6.064; DistanceToPith=4.2; YearsToPith=3; 
+## Radius=101.653; CalcRadius=Yes; Written=2026-04-10 13:47:06; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC3_MID_PIGL_CROSSCHECK\C_PIGL\XXC3T10C.pos  3 - 130  #C#PithCoordinates=121.708,15.727; DistanceToPith=1.5; YearsToPith=1; 
+## Radius=111.876; CalcRadius=Yes; Written=2026-04-13 14:18:13; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC4_MID_PIGL_CROSSCHECK\C_PIGL\XXC4T05C.pos  3 - 115  #C#PithCoordinates=119.645,-4.360; DistanceToPith=14.5; YearsToPith=3; 
+## Radius=116.385; CalcRadius=Yes; Written=2026-04-13 13:51:16; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC4_MID_PIGL_CROSSCHECK\C_PIGL\XXC4T06C.pos  3 - 124  #C#PithCoordinates=144.187,4.117; DistanceToPith=4.8; YearsToPith=2; 
+## Radius=137.192; CalcRadius=Yes; Written=2026-04-13 14:08:12; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC4_MID_PIGL_CROSSCHECK\C_PIGL\XXC4T07C.pos  3 - 124  #C#PithCoordinates=154.665,-4.530; DistanceToPith=12.7; YearsToPith=5; 
+## Radius=147.119; CalcRadius=Yes; Written=2026-04-13 14:10:54; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC4_MID_PIGL_CROSSCHECK\C_PIGL\XXC4T09C.pos  3 - 103  #C#PithCoordinates=111.199,5.853; DistanceToPith=3.8; YearsToPith=1; 
+## Radius=106.881; CalcRadius=Yes; Written=2026-04-13 14:16:10; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC5_MID_PIGL_CROSSCHECK\C_PIGL\XXC5T02C.pos  3 - 65  #C#PithCoordinates=35.941,16.796; DistanceToPith=3.9; YearsToPith=8; 
+## Radius=29.866; CalcRadius=Yes; Written=2026-04-13 13:27:45; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC5_MID_PIGL_CROSSCHECK\C_PIGL\XXC5T03C.pos  3 - 77  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-04-13 13:29:27; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC5_MID_PIGL_CROSSCHECK\C_PIGL\XXC5T04C.pos  3 - 71  #C#PithCoordinates=52.091,7.556; DistanceToPith=2.2; YearsToPith=2; 
+## Radius=46.577; CalcRadius=Yes; Written=2026-04-13 13:31:41; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC5_MID_PIGL_CROSSCHECK\C_PIGL\XXC5T08C.pos  3 - 65  #C#PithCoordinates=1.810,7.990; DistanceToPith=1.1; YearsToPith=1; 
+## Radius=43.878; CalcRadius=Yes; Written=2026-04-13 13:36:01; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC5_MID_PIGL_CROSSCHECK\C_PIGL\XXC5T10C.pos  3 - 64  #C#PithCoordinates=33.941,6.170; DistanceToPith=1.2; YearsToPith=2; 
+## Radius=29.845; CalcRadius=Yes; Written=2026-04-13 13:38:24; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC6_DRY_PIGL_CROSSCHECK\C_PIGL\XXC6T01C.pos  3 - 95  #C#PithCoordinates=54.875,12.986; DistanceToPith=1.0; YearsToPith=1; 
+## Radius=50.091; CalcRadius=Yes; Written=2026-04-13 15:24:11; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC6_DRY_PIGL_CROSSCHECK\C_PIGL\XXC6T03C.pos  3 - 69  #C#PithCoordinates=37.941,13.473; DistanceToPith=2.0; YearsToPith=2; 
+## Radius=33.909; CalcRadius=Yes; Written=2026-04-13 15:25:47; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC6_DRY_PIGL_CROSSCHECK\C_PIGL\XXC6T05C.pos  3 - 98  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-04-13 15:26:51; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC6_DRY_PIGL_CROSSCHECK\C_PIGL\XXC6T07C.pos  3 - 86  #C#PithCoordinates=42.810,3.905; DistanceToPith=3.2; YearsToPith=5; 
+## Radius=39.137; CalcRadius=Yes; Written=2026-04-13 15:30:19; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC6_DRY_PIGL_CROSSCHECK\C_PIGL\XXC6T09C.pos  3 - 69  #C#PithCoordinates=44.270,6.668; DistanceToPith=1.0; YearsToPith=1; 
+## Radius=40.100; CalcRadius=Yes; Written=2026-04-13 15:31:29; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC6_DRY_PIGL_CROSSCHECK\C_PIGL\XXC6T10C.pos  3 - 77  #C#Written=2026-04-13 15:48:28; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC7_MID_PIGL_CROSSCHECK\C_PIGL\XXC7T01C.pos  3 - 24  #C#Written=2026-04-15 11:44:24; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC7_MID_PIGL_CROSSCHECK\C_PIGL\XXC7T02C.pos  3 - 45  #C#Written=2026-04-15 11:54:47; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC7_MID_PIGL_CROSSCHECK\C_PIGL\XXC7T06C.pos  0 - 86  #C#PithCoordinates=34.745,13.494; DistanceToPith=1.2; YearsToPith=3; 
+## Radius=22.458; CalcRadius=Yes; Written=2026-04-17 10:42:23; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC7_MID_PIGL_CROSSCHECK\C_PIGL\XXC7T08C.pos  3 - 53  #C#Written=2026-04-17 10:45:42; DistanceToPith=0.0; YearsToPith=0; 
+## CalcRadius=Yes; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXC7_MID_PIGL_CROSSCHECK\C_PIGL\XXC7T09C.pos  3 - 37  #C#PithCoordinates=43.191,15.833; DistanceToPith=4.3; YearsToPith=3; 
+## Radius=35.571; CalcRadius=Yes; Written=2026-04-15 11:50:07; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXX1_PIGL_PICO--------IN-PROGRESS\C_PIGL\XXX1T01C.pos  3 - 145  #C#PithCoordinates=99.653,3.736; DistanceToPith=3.6; YearsToPith=4; 
+## Radius=91.705; CalcRadius=Yes; Written=2026-03-02 09:39:13; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXX1_PIGL_PICO--------IN-PROGRESS\C_PIGL\XXX1T04C.pos  3 - 93  #C#PithCoordinates=98.817,28.268; DistanceToPith=16.6; YearsToPith=6; 
+## Radius=93.356; CalcRadius=Yes; Written=2026-03-02 09:45:02; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXX1_PIGL_PICO--------IN-PROGRESS\C_PIGL\XXX1T05C.pos  3 - 126  #C#PithCoordinates=107.304,3.916; DistanceToPith=4.8; YearsToPith=4; 
+## Radius=98.658; CalcRadius=Yes; Written=2026-03-02 09:52:02; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXX1_PIGL_PICO--------IN-PROGRESS\C_PIGL\XXX1T06C.pos  3 - 115  #C#PithCoordinates=104.563,21.018; DistanceToPith=7.5; YearsToPith=6; 
+## Radius=99.674; CalcRadius=Yes; Written=2026-03-02 10:00:51; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
+YT_2024_WLU\XXX1_PIGL_PICO--------IN-PROGRESS\C_PIGL\XXX1T11C.pos  3 - 130  #C#DistanceToPith=0.0; YearsToPith=0; CalcRadius=Yes; 
+## Written=2026-03-02 10:06:08; 
+## CooRecorder=9.8.1 March 23 2022; 
+## licensedTo=Jennifer Baltzer, asniderhan@wlu.ca; 
+## 
