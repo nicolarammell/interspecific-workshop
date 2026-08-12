@@ -112,10 +112,10 @@ perimeters_bn <- st_read("data/raw/fire_perimeters/Rebuilt_fixed_fire_perimeters
 perimeters_yt <- st_read("data/raw/Fire_History.shp/Fire_History.shp") %>%
   st_transform(crs = 4326) %>%
   dplyr::filter(DECADE == "1950")
-#View(perimeters_yt)
+View(perimeters_yt)
 
 perimeters_all <- bind_rows(perimeters_bn, perimeters_yt)
-#View(perimeters_all)
+View(perimeters_all)
 
 # Check which geometries are invalid                                             #done to fix an error 
 st_is_valid(perimeters_all)
@@ -132,8 +132,12 @@ sites_fire <- st_join(sites_sf,perimeters_all,join = st_intersects)
 view(sites_fire)
 
 
-# PLOT PELLY CROSSING SITES BY BAI 
-
+# PLOT SITES BY BAI 
 #pull the pelly crossing sites from sites_fire and then get the BAI data for those sites from bai_a_potr_long. Plot the data 
 
- 
+#Pelly East Margin Trees 
+#pull 70F01, 70F03, 70F35, 70F27, 70F34 
+
+
+
+
